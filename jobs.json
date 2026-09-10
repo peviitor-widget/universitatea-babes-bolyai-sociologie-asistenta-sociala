@@ -1,0 +1,508 @@
+[
+  {
+    "url": "https://www.librabank.ro/Cariere/Business+Process+Analyst/1242",
+    "title": "Business Process Analyst - Divizia Centrul de Procesare",
+    "company": "LIBRA BANK S.A. BUCUREŞTI SUCURSALA PLOIEŞTI",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:50:33.079Z",
+    "status": "scraped",
+    "tags": [
+      "Analiză datelor",
+      "Workflow-uri Data Science"
+    ],
+    "matchPercentage": 50,
+    "reason": "Analiza și optimizarea proceselor operaționale, monitorizare proiecte - partial aliniat cu competențe de analiză datelor și workflow-uri"
+  },
+  {
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bucharest---Dacia-One/IT-Business-Analyst---Cards-ING-Hubs-Romania_REQ-10119014",
+    "title": "IT Business Analyst - Cards@ING Hubs Romania",
+    "company": "ING HUBS B.V. AMSTERDAM - SUCURSALA BUCUREȘTI",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:50:33.079Z",
+    "status": "scraped",
+    "tags": [
+      "Analiză datelor",
+      "Workflow-uri Data Science"
+    ],
+    "matchPercentage": 55,
+    "reason": "Analiză cerințe business, soluții tehnice, procese operaționale - aliniat parțial cu competențe de analiză datelor și workflow-uri"
+  },
+  {
+    "url": "https://jobs.jti.com/job/BUCHAREST-Production-Analyst-020335/1424251233/",
+    "title": "Production Analyst",
+    "company": "JTI JOBS S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:50:33.079Z",
+    "status": "scraped",
+    "tags": [
+      "Statistică",
+      "Vizualizarea datelor"
+    ],
+    "matchPercentage": 45,
+    "reason": "Analiză producție/date operaționale, raportare - parțial relevant pentru competențele de analiză cantitativă și vizualizare date"
+  },
+  {
+    "url": "https://career.luxoft.com/jobs/senior-business-analyst-capital-markets-26659",
+    "title": "Senior Business Analyst (Capital Markets)",
+    "company": "LUXOFT GLOBAL CONSULTING S.R.L.",
+    "location": [
+      "all, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:50:32.358Z",
+    "status": "scraped",
+    "tags": [
+      "Analiză datelor",
+      "Workflow-uri Data Science"
+    ],
+    "matchPercentage": 50,
+    "reason": "Requirements engineering, documentare tehnică, soluții software - parțial relevant cu competențe de analiză și workflow-uri data science"
+  },
+  {
+    "url": "https://career.luxoft.com/jobs/senior-business-analyst-capital-markets-26646",
+    "title": "Senior Business Analyst (Capital Markets)",
+    "company": "LUXOFT GLOBAL CONSULTING S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:50:32.358Z",
+    "status": "scraped",
+    "tags": [
+      "Analiză datelor",
+      "Workflow-uri Data Science"
+    ],
+    "matchPercentage": 50,
+    "reason": "Requirements engineering, documentare tehnică, soluții software - parțial relevant cu competențe de analiză și workflow-uri data science"
+  },
+  {
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest-Romania/Lead-Data-Engineer_R0122417-1",
+    "title": "Lead Data Engineer",
+    "company": "LSEG BUSINESS SERVICES RM S.R.L.",
+    "location": [
+      "Bucuresti,Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:50:32.358Z",
+    "status": "scraped",
+    "tags": [
+      "SQL",
+      "Big Data"
+    ],
+    "matchPercentage": 60,
+    "reason": "Inginerie date, arhitectură date, pipeline-uri - relevant pentru competențele Big Data, SQL, workflow-uri Data Science"
+  },
+  {
+    "url": "https://careers.nttdata.ro/nttdataromania/job/Bucuresti-PostgreSQL-Senior-Data-Engineer/1424749233/",
+    "title": "PostgreSQL Senior Data Engineer",
+    "company": "NTT DATA ROMANIA S.A.",
+    "location": [
+      "Bucuresti,Timișoara,Iași,Brașov,Cluj,Sibiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:50:31.181Z",
+    "status": "scraped",
+    "tags": [
+      "SQL avansat",
+      "Big Data"
+    ],
+    "matchPercentage": 65,
+    "reason": "Inginerie date PostgreSQL, SQL avansat, pipeline-uri date - foarte relevant pentru competențele SQL, programare Python, Big Data"
+  },
+  {
+    "url": "https://aecom.jobs/bucharest-rom/data-engineering-specialist-iii/44A801ED322E4C72890A07738FF59500/job/",
+    "title": "Data Engineering Specialist III",
+    "company": "AECOM INGENIERIA SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:50:11.905Z",
+    "status": "scraped",
+    "tags": [
+      "SQL",
+      "Big Data"
+    ],
+    "matchPercentage": 60,
+    "reason": "Inginerie date, pipeline-uri, integrare date - relevant pentru competențele Big Data, SQL, workflow-uri Data Science"
+  },
+  {
+    "url": "https://www.techtalent.ro/careers/system-analyst/",
+    "title": "IT System Analyst",
+    "company": "TECHTALENT SOFTWARE S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:50:11.905Z",
+    "status": "scraped",
+    "tags": [
+      "Analiză datelor",
+      "Workflow-uri Data Science"
+    ],
+    "matchPercentage": 45,
+    "reason": "Analiză sisteme IT, cerințe funcționale - parțial relevant cu competențe de analiză și sisteme informaționale"
+  },
+  {
+    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Data-Architect/301627",
+    "title": "Data Architect",
+    "company": "SIEMENS ENERGY AUSTRIA GMBH VIENA SUCURSALA BUCURESTI",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:50:10.941Z",
+    "status": "scraped",
+    "tags": [
+      "SQL",
+      "Big Data"
+    ],
+    "matchPercentage": 55,
+    "reason": "Arhitectură date, modelare date, strategie date - relevant parțial pentru competențele de Big Data, SQL, workflow-uri Data Science"
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF295535W-working-student-in-data-analysis-and-logistics-support",
+    "title": "Working Student in Data Analysis and Logistics Support",
+    "company": "BOSCH + WAGNER INTERNATIONAL ENGINEERING SRL",
+    "location": [
+      "Jucu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:50:06.440Z",
+    "status": "scraped",
+    "tags": [
+      "SQL",
+      "Analiza datelor"
+    ],
+    "matchPercentage": 80,
+    "reason": "Working student în analiza datelor și suport logistic, ideal pentru competențele de analiză de date și SQL."
+  },
+  {
+    "url": "https://careers.ing.com/en/job/bucharest/it-business-analyst-pricing-tribe-ipa-data-product-ing-hubs-romania/3121/41775489536",
+    "title": "IT Business Analyst | Pricing Tribe | IPA Data Product @ING Hubs Romania",
+    "company": "ING TRUST SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:50:06.440Z",
+    "status": "scraped",
+    "tags": [
+      "SQL",
+      "Analiza datelor"
+    ],
+    "matchPercentage": 50,
+    "reason": "Business analyst pe produs de date, folosește SQL și analiza datelor; rol posibil de junior."
+  },
+  {
+    "url": "https://careers.ing.com/en/job/bucharest/data-scientist-financial-crime-transaction-monitoring-ing-hubs-romania/3121/41764289856",
+    "title": "Data Scientist | Financial Crime | Transaction Monitoring @ING Hubs Romania",
+    "company": "ING TRUST SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:50:06.440Z",
+    "status": "scraped",
+    "tags": [
+      "Machine Learning",
+      "Analiză predictivă"
+    ],
+    "matchPercentage": 55,
+    "reason": "Data Science pe monitoring tranzacții — folosește ML, Python și analiză predictivă din competențe."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000147189629",
+    "title": "Working Student in Data Analysis and Logistics Support",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Jucu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:50:06.440Z",
+    "status": "scraped",
+    "tags": [
+      "SQL",
+      "Vizualizarea datelor"
+    ],
+    "matchPercentage": 85,
+    "reason": "Working student în analiza și suport date: baze de date, rapoarte, consolidare date — direct pe competențele de SQL și raportare."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269572/eMAG/Machine-Learning-Engineer-(Data-&amp;-AI,-Data-Science-Vipers-Team)",
+    "title": "Machine Learning Engineer (Data &amp; AI, Data Science Vipers Team)",
+    "company": "EMAG RETAIL S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:48:49.762Z",
+    "status": "scraped",
+    "tags": [
+      "Machine Learning",
+      "Python"
+    ],
+    "matchPercentage": 50,
+    "reason": "ML engineering în e-commerce; ML și Python din competențe se potrivesc, dar rolul cere de obicei experiență."
+  },
+  {
+    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/middle-machine-learning-engineer-2",
+    "title": "Middle Machine Learning Engineer",
+    "company": "PPC ENERGIE S.A.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:46:59.579Z",
+    "status": "scraped",
+    "tags": [
+      "Machine Learning",
+      "Programare statistică Python"
+    ],
+    "matchPercentage": 60,
+    "reason": "Rol de ML Engineer în sectorul energetic; competențe de ML și programare Python sunt relevante, dar lipsa experienței practice și contextul de inginerie energetică reduc potrivirea"
+  },
+  {
+    "url": "https://eu.rsystems.com/ai-machine-learning-developer-id-15020/",
+    "title": "AI Machine Learning Developer",
+    "company": "R SYSTEMS COMPUTARIS EUROPE S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:45:47.846Z",
+    "status": "scraped",
+    "tags": [
+      "Machine Learning",
+      "Algoritmi AI avansați"
+    ],
+    "matchPercentage": 55,
+    "reason": "Rol de dezvoltare AI/ML; competențele de ML, Python și algoritmi AI sunt relevante, dar jobul presupune probabil experiență mai avansată și stack specific (cloud, MLOps)"
+  },
+  {
+    "url": "https://eu.rsystems.com/edge-ai-machine-learning_engineer-id-15003/",
+    "title": "Edge AI Machine Learning Engineer",
+    "company": "R SYSTEMS COMPUTARIS EUROPE S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:45:47.846Z",
+    "status": "scraped",
+    "tags": [
+      "Machine Learning",
+      "Inginerie ML/MLOps"
+    ],
+    "matchPercentage": 45,
+    "reason": "Rol de Edge AI/ML cu accent pe embedded/constraints hardware; competențele de ML sunt de bază dar Edge AI necesită experiență specializată pe care nu o am"
+  },
+  {
+    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Learning-Reporting-Expert/302622",
+    "title": "Learning Reporting Expert",
+    "company": "SIEMENS ENERGY AUSTRIA GMBH VIENA SUCURSALA BUCURESTI",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:45:43.659Z",
+    "status": "scraped",
+    "tags": [
+      "Vizualizarea datelor",
+      "SQL și interogare baze de date"
+    ],
+    "matchPercentage": 50,
+    "reason": "Rol de raportare în învățare/dezvoltare; competențele de vizualizare date și SQL pot fi relevante pentru generarea de rapoarte, dar contextul HR reduce potrivirea"
+  },
+  {
+    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Machine-Learning-Engineer/295076",
+    "title": "Machine Learning Engineer",
+    "company": "SIEMENS ENERGY AUSTRIA GMBH VIENA SUCURSALA BUCURESTI",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:45:42.948Z",
+    "status": "scraped",
+    "tags": [
+      "Machine Learning",
+      "Analiză predictivă"
+    ],
+    "matchPercentage": 60,
+    "reason": "Rol de ML Engineer; competențele de ML, Python, analiză predictivă sunt direct relevante dar jobul la o companie energetică mare poate necesita experiență specifică"
+  },
+  {
+    "url": "https://www.globallogic.com/careers/senior-python-software-engineer-irc300958/",
+    "title": "Senior Python Software Engineer IRC300958",
+    "company": "GLOBALLOGIC ROMANIA S.R.L.",
+    "location": [
+      "Oradea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:50:31.181Z",
+    "status": "scraped",
+    "tags": [
+      "Programare statistică Python",
+      "Big Data"
+    ],
+    "matchPercentage": 40,
+    "reason": "Rol senior de Python engineering pe platformă de date/AI; competențele de Python și Big Data sunt relevante dar nivelul senior și stack specific (cloud-native, microservicii) sunt peste nivelul meu"
+  },
+  {
+    "url": "https://www.techtalent.ro/careers/full-stack-engineer-pythonreact/",
+    "title": "Full-Stack Engineer (Python+React)",
+    "company": "TECHTALENT SOFTWARE S.R.L.",
+    "location": [
+      "Bucuresti,Timișoara,Cluj-Napoca,Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:50:06.440Z",
+    "status": "scraped",
+    "tags": [
+      "Programare statistică Python"
+    ],
+    "matchPercentage": 35,
+    "reason": "Rol full-stack cu Python și React; Python-ul este relevant dar React-ul și development-ul web full-stack nu fac parte din competențele mele principale"
+  },
+  {
+    "url": "https://dualitsoft.com/careers/python-with-node-js-backend-developer/",
+    "title": "Python With Node Js Backend Developer",
+    "company": "DUALIT SOFTWARE SRL",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:49:47.235Z",
+    "status": "scraped",
+    "tags": [
+      "Programare statistică Python"
+    ],
+    "matchPercentage": 30,
+    "reason": "Rol backend Python + Node.js; Python-ul este relevant dar Node.js și dezvoltarea de backend application nu sunt în domeniul meu de specializare"
+  },
+  {
+    "url": "https://careers.nttdata.ro/nttdataromania/job/Brasov-FullStack-Engineer-with-Python&amp;React/1434676333/",
+    "title": "FullStack Engineer with Python&amp;React",
+    "company": "NTT DATA ROMANIA S.A.",
+    "location": [
+      "Brașov,Timișoara,Remote,Iași,Bucuresti,Cluj,Sibiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:49:10.356Z",
+    "status": "scraped",
+    "tags": [
+      "Programare statistică Python"
+    ],
+    "matchPercentage": 35,
+    "reason": "Rol full-stack Python+React; similar cu jobul precedent, Python-ul este un punct comun dar nu este rolul potrivit"
+  },
+  {
+    "url": "https://urbanconnect.ro/jobsid/senior-data-engineer-python-bigquery/",
+    "title": "Senior Data Engineer — Python &amp; BigQuery",
+    "company": "URBAN SOCIALIZING SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:48:49.762Z",
+    "status": "scraped",
+    "tags": [
+      "Big Data",
+      "SQL avansat"
+    ],
+    "matchPercentage": 55,
+    "reason": "Rol de Data Engineer cu Python și BigQuery; competențele de Python, SQL, Big Data și workflow-uri Data Science sunt relevante dar nivelul senior este peste experiența mea"
+  },
+  {
+    "url": "https://www.accenture.com/ro-en/careers/jobdetails?id=R00334988_en&amp;title=Senior+Python+Developer",
+    "title": "Senior Python Developer",
+    "company": "ACCENTURE BOARD SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:48:06.300Z",
+    "status": "scraped",
+    "tags": [
+      "Programare statistică Python"
+    ],
+    "matchPercentage": 35,
+    "reason": "Rol senior de Python development cu microservicii, cloud și Django/Flask; Python-ul este relevant dar nivelul și stack-ul de backend engineering nu sunt potrivite"
+  },
+  {
+    "url": "https://www.librabank.ro/Cariere/Business+Analyst+/1248",
+    "title": "Business Analyst  - Divizia Analiza Credite Retail",
+    "company": "LIBRA BANK S.A. BUCUREŞTI SUCURSALA PLOIEŞTI",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:44:35.491Z",
+    "status": "scraped",
+    "tags": [
+      "SQL și baze de date",
+      "Analiză cantitativă"
+    ],
+    "matchPercentage": 60,
+    "reason": "Analiză cantitativă, SQL și interogare baze de date, vizualizarea datelor - competențe transferabile în analiza financiară/bancară"
+  },
+  {
+    "url": "https://www.librabank.ro/Cariere/Professionals+Credit+Analyst-Divizia+Analiza+Credite+Professionals,+Agri+si+IMM/608",
+    "title": "Professionals Credit Analyst-Divizia Analiza Credite Professionals, Agri si IMM -",
+    "company": "LIBRA BANK S.A. BUCUREŞTI SUCURSALA PLOIEŞTI",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-09T12:48:56.497Z",
+    "status": "scraped",
+    "tags": [
+      "Analiză cantitativă",
+      "Analiză predictivă"
+    ],
+    "matchPercentage": 55,
+    "reason": "Analiza cantitativă, SQL și modelare co-dependențe sunt competențe utile în analiza de credit"
+  },
+  {
+    "url": "https://www.capgemini.com/ro-en/jobs/548136-en_GB_SAPBTP/senior-gis-consultant-/-technical-lead",
+    "title": "Senior GIS Consultant / Technical Lead",
+    "company": "CAPGEMINI SERVICES ROMANIA SRL",
+    "location": [
+      "Bucuresti,Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:50:06.440Z",
+    "status": "scraped",
+    "tags": [
+      "GIS avansat",
+      "Analiză spațială"
+    ],
+    "matchPercentage": 65,
+    "reason": "GIS avansat și analiză spațială sunt competențe directe, dar rolul de Senior/Lead necesită experiență mai mare"
+  },
+  {
+    "url": "https://www.capgemini.com/ro-en/jobs/548001-en_GB_SAPBTP/gis-developer",
+    "title": "GIS Developer",
+    "company": "CAPGEMINI SERVICES ROMANIA SRL",
+    "location": [
+      "Bucuresti,Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-10T12:50:06.440Z",
+    "status": "scraped",
+    "tags": [
+      "GIS avansat",
+      "Programare Python"
+    ],
+    "matchPercentage": 70,
+    "reason": "GIS și programare Python sunt competențe cheie din planul de învățământ"
+  }
+]
