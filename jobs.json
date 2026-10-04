@@ -1,122 +1,139 @@
 [
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271369/Siemens-Energy/Machine-Learning-Engineer",
-    "title": "Machine Learning Engineer",
-    "company": "SIEMENS ENERGY S.R.L.",
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18660/ai-data-scientist",
+    "title": "AI Data Scientist",
+    "company": "SCHAEFFLER ROMANIA SRL",
     "location": [
-      "Bucuresti, Romania"
+      "Brașov, Romania"
     ],
     "salary": null,
-    "date": "2026-10-02T14:51:35.992Z",
+    "date": "2026-10-03T13:25:33.347Z",
+    "status": "scraped",
+    "tags": [
+      "ML",
+      "AI"
+    ],
+    "matchPercentage": 95,
+    "reason": "AI Data Scientist se potrivește direct cu ML, AI, știința datelor și analiza predictivă."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18659/machine-learning-ai-engineer",
+    "title": "Machine Learning  AI Engineer",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:25:33.347Z",
+    "status": "scraped",
+    "tags": [
+      "machine learning",
+      "inginerie ML"
+    ],
+    "matchPercentage": 95,
+    "reason": "Sarcinile de machine learning și AI se potrivesc direct cu competențele de inginerie ML și algoritmi predictivi."
+  },
+  {
+    "url": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Timisoara-RO/Machine-Learning-Engineer_R00172354",
+    "title": "Machine Learning Engineer",
+    "company": "MAGNA ELECTRONICS ROMANIA S.R.L.",
+    "location": [
+      "Timișoara,Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:21:31.132Z",
     "status": "scraped",
     "tags": [
       "machine learning",
       "Python"
     ],
     "matchPercentage": 95,
-    "reason": "Machine Learning Engineer se potrivește direct cu ML, AI și programare statistică."
+    "reason": "Activitățile de machine learning și dezvoltare algoritmi corespund direct profilului tehnic."
   },
   {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/junior-machine-learning-engineer/100358",
-    "title": "Junior Machine Learning Engineer",
-    "company": "PPC PRODUCTIE ROMANIA S.R.L.",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271516/SCHAEFFLER/Machine-Learning-&amp;-AI-Engineer",
+    "title": "Machine Learning &amp; AI Engineer",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:19:17.820Z",
+    "status": "scraped",
+    "tags": [
+      "machine learning",
+      "analiză predictivă"
+    ],
+    "matchPercentage": 95,
+    "reason": "Domeniul ML și AI folosește direct algoritmi de predicție, clasificare și inginerie ML."
+  },
+  {
+    "url": "https://careers.adobe.com/us/en/job/R166437",
+    "title": "ML Services Software Development Engineer",
+    "company": "ADOBE SYSTEMS ROMANIA SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:24:46.755Z",
+    "status": "scraped",
+    "tags": [
+      "machine learning",
+      "AI"
+    ],
+    "matchPercentage": 95,
+    "reason": "Sarcinile de ML, inferență și personalizare de modele corespund direct competențelor de machine learning și AI."
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/ruby-labs/5fb76187-efa5-486d-8ceb-5309ac0fefd4",
+    "title": "Data Analytics Engineer",
+    "company": "ABLE CRIS SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:23:00.147Z",
+    "status": "scraped",
+    "tags": [
+      "data analysis",
+      "business intelligence"
+    ],
+    "matchPercentage": 95,
+    "reason": "Rolul de Data Analytics Engineer folosește direct SQL, dbt, BigQuery și modelare de date, potrivite pentru data science și BI."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/booking-holdings-romania-data-analytics-engineer/97581",
+    "title": "Booking Holdings Romania - Data Analytics Engineer",
+    "company": "BOOKING HOLDINGS ROMANIA S.R.L.",
     "location": [
       "București, Romania"
     ],
     "salary": null,
-    "date": "2026-10-02T14:45:09.377Z",
+    "date": "2026-10-03T13:21:32.464Z",
     "status": "scraped",
     "tags": [
-      "machine learning",
-      "Python"
+      "data analysis",
+      "data science"
     ],
     "matchPercentage": 95,
-    "reason": "Junior ML Engineer - folosește ML, Python, AWS SageMaker, Spark, Airflow și este explicit junior."
+    "reason": "Data Analytics Engineer pe Snowflake, dbt, Python și AWS se potrivește direct domeniului de analiză de date și inginerie ML/Data."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/264924/ING-Bank-Romania/Data-Analyst-|-Analytics-@-ING-Bank",
-    "title": "Data Analyst | Analytics @ ING Bank",
-    "company": "ING BANK N.V. AMSTERDAM SUCURSALA BUCURESTI",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:43:27.058Z",
-    "status": "scraped",
-    "tags": [
-      "analiză de date",
-      "SQL"
-    ],
-    "matchPercentage": 95,
-    "reason": "Rol de Data Analyst folosește analiza datelor, SQL și vizualizare, în concordanță directă cu profilul de specialitate."
-  },
-  {
-    "url": "https://premierresearch.wd12.myworkdayjobs.com/en-US/PremierResearch/job/Romania/Data-Scientist_R6867?locations=9e662c32237d10020998e40b53a80000",
-    "title": "Data Scientist",
-    "company": "PREMIER RESEARCH ROMANIA SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:50:09.900Z",
-    "status": "scraped",
-    "tags": [
-      "Python",
-      "SQL"
-    ],
-    "matchPercentage": 90,
-    "reason": "Domeniul de data science se potrivește direct cu competențele de analiză de date și programare statistică."
-  },
-  {
-    "url": "https://multijobs.ro/job/specialist-analiza-date-si-automatizare-procese-timisoara-hybrid/5103",
-    "title": "Specialist Analiză Date și Automatizare Procese – Timișoara, Hybrid",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:45:08.809Z",
-    "status": "scraped",
-    "tags": [
-      "analiza de date",
-      "SQL"
-    ],
-    "matchPercentage": 90,
-    "reason": "Date și automatizare se potrivesc direct cu analiza de date și programarea statistică."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271773/BAT-Romania-/People-Analytics-&amp;-Insights-Specialist",
-    "title": "People Analytics &amp; Insights Specialist",
-    "company": "BATM ROMANIA S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:43:27.058Z",
-    "status": "scraped",
-    "tags": [
-      "analiză de date",
-      "analiză statistică"
-    ],
-    "matchPercentage": 90,
-    "reason": "People analytics folosește analiza de date și statistică pentru a genera insight-uri, aliniat direct competențelor tehnice."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/261366/ING-Bank-Romania/Data-Engineer-|-Analytics-@-ING-Bank",
+    "url": "https://careers.ing.com/en/job/bucharest/data-engineer-analytics-ing-bank/3121/32005315712",
     "title": "Data Engineer | Analytics @ ING Bank",
-    "company": "ING BANK N.V. AMSTERDAM SUCURSALA BUCURESTI",
+    "company": "ING TRUST SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-02T14:43:27.058Z",
+    "date": "2026-10-03T13:20:40.903Z",
     "status": "scraped",
     "tags": [
-      "inginerie ML",
-      "fluxuri de lucru"
+      "data engineering",
+      "predictive analysis"
     ],
-    "matchPercentage": 90,
-    "reason": "Data Engineer construiește fluxuri de lucru pentru date și integrare, corespunzând ingineriei ML și competențelor de date."
+    "matchPercentage": 95,
+    "reason": "Sarcinile de construire a fluxurilor de date, optimizare și automatizare corespund direct competențelor de data engineering și analiză predictivă."
   },
   {
     "url": "https://www.undelucram.ro/ro/locuri-de-munca/scientific-computing-spatial-analytics-engineer/100537",
@@ -126,286 +143,31 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-02T14:43:53.053Z",
+    "date": "2026-10-03T13:19:10.626Z",
     "status": "scraped",
     "tags": [
       "GIS",
-      "machine learning"
+      "data analysis"
     ],
-    "matchPercentage": 88,
-    "reason": "Spatial analytics and scientific computing with Python, ML, SQL and geospatial modelling aligns closely with the GIS and data science competencies."
+    "matchPercentage": 95,
+    "reason": "Combină calcul științific, analiză spațială și geostatistică, potrivindu-se direct pentru GIS și analiză de date."
   },
   {
-    "url": "https://multijobs.ro/job/oportunitate-de-cariera-in-analiza-si-management-de-date/423",
-    "title": "Oportunitate de carieră în Analiză și Management de Date",
-    "company": "CHESCA SPEDITION SRL",
-    "location": [
-      "Galati, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:37:32.404Z",
-    "status": "scraped",
-    "tags": [
-      "analiza de date",
-      "SQL"
-    ],
-    "matchPercentage": 85,
-    "reason": "Analiză și management de date se potrivesc direct cu profilul de data analysis."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149617139",
-    "title": "Working Student - Digitalization Team",
-    "company": "DEN BOSCH GROUP SRL",
-    "location": [
-      "Blaj, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:51:31.778Z",
-    "status": "scraped",
-    "tags": [
-      "SQL",
-      "analiză date"
-    ],
-    "matchPercentage": 82,
-    "reason": "Extrage și analizează date de producție prin interogări SQL și construiește rapoarte operaționale și dashboard-uri, la nivel de working student."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272083/Siemens-Energy/Data-&amp;-AI-Analytics-Engineer",
-    "title": "Data &amp; AI Analytics Engineer",
-    "company": "SIEMENS ENERGY S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:47:52.186Z",
-    "status": "scraped",
-    "tags": [
-      "machine learning",
-      "analiză date"
-    ],
-    "matchPercentage": 82,
-    "reason": "Data & AI analytics engineer directly applies machine learning, data analysis and advanced AI model design."
-  },
-  {
-    "url": "https://yardiromania.breezy.hr/p/021230d1002b01-technical-analyst-ai-workflow-automation",
-    "title": "Technical Analyst – AI Workflow Automation",
-    "company": "YARDI CALL CENTER SRL",
-    "location": [
-      "Cluj-Napoca"
-    ],
-    "salary": null,
-    "date": "2026-10-02T23:31:38.391Z",
-    "status": "scraped",
-    "tags": [
-      "AI",
-      "machine learning"
-    ],
-    "matchPercentage": 80,
-    "reason": "Automatizare de workflow-uri cu AI, task analist tehnic entry-level, in zona de AI."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-intern-wizzprom-sql-si-retelistica",
-    "title": "Consultant Intern WizzSoftware – SQL",
-    "company": "FOX PAYROLL EXPERT S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:39:28.358Z",
-    "status": "scraped",
-    "tags": [
-      "SQL",
-      "interogare date"
-    ],
-    "matchPercentage": 80,
-    "reason": "Intern consultant role centered on SQL consulting, ideal entry level matching the advanced SQL competency."
-  },
-  {
-    "url": "https://jobs.keysight.com/external/jobs/54161",
-    "title": "Services Business Intelligence &amp; Commercial Analytics Specialist, Advanced",
-    "company": "KEYSIGHT TECHNOLOGIES RO SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:48:21.268Z",
-    "status": "scraped",
-    "tags": [
-      "Power BI",
-      "analiză predictivă"
-    ],
-    "matchPercentage": 76,
-    "reason": "Business intelligence and commercial analytics with reporting, dashboards and forecasting matches data analysis and visualization skills."
-  },
-  {
-    "url": "https://jobs.lever.co/alimentiv-2/3ec75ff0-8b9f-4c1f-a87f-b4667d779d82",
-    "title": "Join our Talent Pool - Clinical Research Associates (Europe)",
-    "company": "ALIMENTI ITALIA MARKET S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:45:54.084Z",
-    "status": "scraped",
-    "tags": [
-      "SQL",
-      "analiză date"
-    ],
-    "matchPercentage": 75,
-    "reason": "Cercetare clinică implică lucrul cu date structurate și revizuire de date, potrivit parțial pentru SQL și analiză de date."
-  },
-  {
-    "url": "https://www.principal33.com/job-offers/?personio_job_id=2522023",
-    "title": "Principal/Senior/Mid – AI/ML Engineer",
-    "company": "PRINCIPAL33 S.R.L.",
-    "location": [
-      "Cluj-Napoca"
-    ],
-    "salary": null,
-    "date": "2026-10-02T23:31:57.767Z",
-    "status": "scraped",
-    "tags": [
-      "machine learning",
-      "AI avansat"
-    ],
-    "matchPercentage": 72,
-    "reason": "Domeniul AI/ML corespunde direct competentelor tale, iar varianta Mid este acceptabila, dar titlul include si Senior/Principal, ceea ce ridica riscul de nivel nepotrivit."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/sql-developer-92",
-    "title": "SQL Developer",
-    "company": "SOFT NET CONSULTING S.R.L.",
-    "location": [
-      "Bucuresti, Romania,Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:49:36.436Z",
-    "status": "scraped",
-    "tags": [
-      "SQL",
-      "interogare date"
-    ],
-    "matchPercentage": 72,
-    "reason": "SQL Developer uses advanced SQL querying directly, though closer to database development than analysis."
-  },
-  {
-    "url": "https://usamvjobs.ro/job/bucuresti-6-consultant-de-specialitate-in-cercetare/",
-    "title": "Consultant de specialitate în cercetare",
-    "company": "STARCKROM TEHNOLOGII SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:47:46.359Z",
-    "status": "scraped",
-    "tags": [
-      "serii de timp",
-      "analiză date"
-    ],
-    "matchPercentage": 70,
-    "reason": "Implică analiză și interpretare de serii de date, potrivit parțial cu analiza seriilor de timp și analiza de date."
-  },
-  {
-    "url": "https://www.librabank.ro/Cariere/Business+Analyst+-+Divizia+Analiza+Credite+Retail/1248",
-    "title": "Business Analyst - Divizia Analiza Credite Retail - Divizia Analiza Credite Retail",
-    "company": "LIBRA BANK S.A. BUCUREŞTI SUCURSALA PLOIEŞTI",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:38:44.890Z",
-    "status": "scraped",
-    "tags": [
-      "analiza de date",
-      "SQL"
-    ],
-    "matchPercentage": 70,
-    "reason": "Business Analyst poate folosi SQL și analiză, dar domeniul bancar este parțial relevant pentru competențele de specialitate."
-  },
-  {
-    "url": "https://www.librabank.ro/Cariere/Business+Analyst+-+Divizia+Analiza+Credite+Professionals,+Agri+si+IMM+/1480",
-    "title": "Business Analyst - Divizia Analiza Credite Professionals, Agri si IMM  - Bucuresti",
-    "company": "LIBRA BANK S.A. BUCUREŞTI SUCURSALA PLOIEŞTI",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:33:06.428Z",
-    "status": "scraped",
-    "tags": [
-      "analiza de date",
-      "SQL"
-    ],
-    "matchPercentage": 70,
-    "reason": "Business Analyst în creditare poate implica analiză de date și SQL, relevanță parțială."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/application-support-sql-12-month-paternity-leave-contract",
-    "title": "Application Support / SQL - (12 Month Paternity-leave Contract)",
-    "company": "VARICENT ROM OPCO S.R.L.",
-    "location": [
-      "Remote, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:31:40.702Z",
-    "status": "scraped",
-    "tags": [
-      "SQL",
-      "suport"
-    ],
-    "matchPercentage": 70,
-    "reason": "Application support with SQL, entry level but limited analytical component, mostly support work."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396176",
-    "title": "ASISTENT DE CERCETARE ÎN ECOLOGIE SI PROTECTIA MEDIULUI",
-    "company": "ASOCIATIA FAMILIALA APOSTOL P",
-    "location": [
-      "Cluj-napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:49:00.467Z",
-    "status": "scraped",
-    "tags": [
-      "metodologie cercetare",
-      "analiză date empirice"
-    ],
-    "matchPercentage": 65,
-    "reason": "Activități de cercetare cu colectare și prelucrare de date cantitative și calitative se potrivesc parțial cu metodologia cercetării sociale."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/inginer-energetician-analiza-retea/99947",
-    "title": "Inginer Energetician Analiză Rețea",
-    "company": "PPC PRODUCTIE ROMANIA S.R.L.",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:50:49.553Z",
-    "status": "scraped",
-    "tags": [
-      "analiză predictivă",
-      "serii de timp"
-    ],
-    "matchPercentage": 65,
-    "reason": "Analiză de rețea și prognoză de sarcină se pot potrivi parțial cu analiza predictivă și seriile de timp."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/inginer-energetician-analiza-operationala/99914",
-    "title": "Inginer Energetician Analiză Operațională",
-    "company": "PPC PRODUCTIE ROMANIA S.R.L.",
+    "url": "https://multijobs.ro/job/specialist-analiza-date-si-automatizare-procese-timisoara-hybrid/5103",
+    "title": "Specialist Analiză Date și Automatizare Procese – Timișoara, Hybrid",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
       "Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-10-02T14:50:49.553Z",
+    "date": "2026-10-03T13:08:30.754Z",
     "status": "scraped",
     "tags": [
-      "analiză predictivă",
-      "serii de timp"
+      "analiză de date",
+      "automatizare"
     ],
-    "matchPercentage": 65,
-    "reason": "Analiză operațională a rețelei electrice implică date și prognoză, potrivit parțial cu analiza predictivă."
+    "matchPercentage": 88,
+    "reason": "Specialist în analiză de date și automatizare procese, corespunde direct competențelor de Python, SQL, BI și integrare date."
   },
   {
     "url": "https://www.principal33.com/job-offers/?personio_job_id=2510622",
@@ -416,13 +178,251 @@
       "Târgu Mureș"
     ],
     "salary": null,
-    "date": "2026-10-02T23:31:57.767Z",
+    "date": "2026-10-03T14:53:19.061Z",
     "status": "scraped",
     "tags": [
       "SQL",
-      "inginerie date"
+      "Python"
     ],
-    "matchPercentage": 64,
-    "reason": "Data engineering se apropie de fluxurile de lucru data science si SQL, desi nu e data science propriu-zis."
+    "matchPercentage": 85,
+    "reason": "Data Engineer se potrivește direct cu SQL, inginerie de date și fluxuri de lucru pentru data science."
+  },
+  {
+    "url": "https://www.principal33.com/job-offers/?personio_job_id=2522023",
+    "title": "Principal/Senior/Mid – AI/ML Engineer",
+    "company": "PRINCIPAL33 S.R.L.",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-10-03T14:53:19.061Z",
+    "status": "scraped",
+    "tags": [
+      "machine learning",
+      "AI"
+    ],
+    "matchPercentage": 85,
+    "reason": "Rolul include explicit nivelul Mid in AI/ML, cu domeniu direct machine learning si AI, potrivit profilului tau de absolvent in data science."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/research-analyst-advanced-statistics",
+    "title": "Research Analyst – Advanced Statistics",
+    "company": "FIRMA DE FIRME CONSULTANTA S.R.L.",
+    "location": [
+      "Remote, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:23:09.419Z",
+    "status": "scraped",
+    "tags": [
+      "statistică",
+      "analiză de date"
+    ],
+    "matchPercentage": 85,
+    "reason": "Rol de cercetare statistică avansată cu analiză de date, potrivit direcției data science și analizei predictive, la nivel de analyst entry/junior."
+  },
+  {
+    "url": "https://yardiromania.breezy.hr/p/021230d1002b01-technical-analyst-ai-workflow-automation",
+    "title": "Technical Analyst – AI Workflow Automation",
+    "company": "YARDI CALL CENTER SRL",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-10-03T14:50:53.678Z",
+    "status": "scraped",
+    "tags": [
+      "ML",
+      "AI"
+    ],
+    "matchPercentage": 80,
+    "reason": "Technical Analyst – AI Workflow Automation se potrivește direct cu ML, AI și inginerie ML."
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/ruby-labs/3d14cb8d-4ccc-447f-93cd-37870f6fc8ca",
+    "title": "Billing Data Analyst",
+    "company": "ABLE CRIS SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:25:07.199Z",
+    "status": "scraped",
+    "tags": [
+      "analiza statistica",
+      "dashboard-uri"
+    ],
+    "matchPercentage": 78,
+    "reason": "Billing Data Analyst foloseste metode statistice, experimente A/B, construire de pipeline-uri de date si dashboard-uri, deci coincide bine cu competentele tale de analiza si BI."
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/ruby-labs/36041e7b-d453-481d-be23-bc17ced5fad6",
+    "title": "Data Engineer (Marketing Systems)",
+    "company": "ABLE CRIS SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:25:35.037Z",
+    "status": "scraped",
+    "tags": [
+      "Python",
+      "SQL"
+    ],
+    "matchPercentage": 75,
+    "reason": "Data Engineer pentru sisteme de marketing folosește Python, SQL și integrarea datelor, relevanță parțială pentru profilul dat."
+  },
+  {
+    "url": "https://yardiromania.breezy.hr/p/0d4e5819ce9a01-marketing-analyst-ii-digital-performance-analytics",
+    "title": "Marketing Analyst II – Digital &amp; Performance Analytics",
+    "company": "YARDI CALL CENTER SRL",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-10-03T14:50:53.678Z",
+    "status": "scraped",
+    "tags": [
+      "analiza",
+      "BI"
+    ],
+    "matchPercentage": 70,
+    "reason": "Marketing Analyst cu analitică digitală are relevanță parțială pentru business intelligence și vizualizare de date."
+  },
+  {
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bucharest---Dacia-One/IT-Business-Analyst-PSS---KYP--ING-Hubs-Romania_REQ-10121516-1",
+    "title": "IT Business Analyst PSS - KYP @ING Hubs Romania",
+    "company": "ING HUBS B.V. AMSTERDAM - SUCURSALA BUCUREȘTI",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:25:02.702Z",
+    "status": "scraped",
+    "tags": [
+      "SQL",
+      "Power BI"
+    ],
+    "matchPercentage": 70,
+    "reason": "Business Intelligence și soluții de date se potrivește parțial cu competențele tale."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-intern-wizzprom-sql-si-retelistica",
+    "title": "Consultant Intern WizzSoftware – SQL",
+    "company": "FOX PAYROLL EXPERT S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:11:22.856Z",
+    "status": "scraped",
+    "tags": [
+      "SQL",
+      "business intelligence"
+    ],
+    "matchPercentage": 70,
+    "reason": "Internship-ul folosește SQL pentru consultanță, având relevanță parțială pentru BI și analiză de date, dar sarcinile principale nu sunt foarte tehnice."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/junior-fraud-analyst-with-italian-4",
+    "title": "Junior fraud analyst with Italian",
+    "company": "RSC SERVICII SUPORT SRL",
+    "location": [
+      "Ploiesti, Romania,Bucuresti, Bucuresti, Municipiul Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:25:14.877Z",
+    "status": "scraped",
+    "tags": [
+      "analiza de date",
+      "SQL"
+    ],
+    "matchPercentage": 66,
+    "reason": "Junior fraud analyst presupune monitorizarea tranzactiilor, investigatii bazate pe date si SQL, deci are corespondenta partiala cu analiza de date, desi necesita limba italiana."
+  },
+  {
+    "url": "https://seniorsoftware.ro/cariere/business-analist-erp",
+    "title": "Business analyst ERP",
+    "company": "SENIOR SOFTWARE AGENCY SRL",
+    "location": [
+      "București"
+    ],
+    "salary": null,
+    "date": "2026-10-03T14:53:41.305Z",
+    "status": "scraped",
+    "tags": [
+      "SQL",
+      "analiza"
+    ],
+    "matchPercentage": 65,
+    "reason": "Business analyst ERP poate implica analiză și SQL, dar relevanța pentru data science sau cercetare socială este parțială."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/microsoft-power-platform-collaboration-specialist-m-f-d/1990195",
+    "title": "Microsoft 365 Power Platform &amp; Collaboration Specialist (m/f/d)",
+    "company": "CONTINENTAL SRL",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:24:03.887Z",
+    "status": "scraped",
+    "tags": [
+      "Power BI",
+      "automatizare"
+    ],
+    "matchPercentage": 65,
+    "reason": "Power Platform și automatizare se potrivesc parțial cu competențele tale."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/microsoft-365-power-platform-collaboration-specialist-mfd/98482",
+    "title": "Microsoft 365 Power Platform &amp; Collaboration Specialist (m/f/d)",
+    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:22:44.308Z",
+    "status": "scraped",
+    "tags": [
+      "Power BI",
+      "automatizare"
+    ],
+    "matchPercentage": 65,
+    "reason": "Power Platform și automatizare se potrivesc parțial cu competențele tale."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/sql-developer-92",
+    "title": "SQL Developer",
+    "company": "SOFT NET CONSULTING S.R.L.",
+    "location": [
+      "Bucuresti, Romania,Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:09:01.294Z",
+    "status": "scraped",
+    "tags": [
+      "SQL",
+      "data analysis"
+    ],
+    "matchPercentage": 65,
+    "reason": "Dezvoltarea în SQL este relevantă parțial pentru analiza de date, însă jobul este orientat mai mult către dezvoltare decât către analiză sau modelare."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18677/data-engineer",
+    "title": "Data Engineer",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:25:33.347Z",
+    "status": "scraped",
+    "tags": [
+      "SQL",
+      "data pipelines"
+    ],
+    "matchPercentage": 62,
+    "reason": "Data Engineer se concentreaza pe pipeline-uri si SQL, tangenta cu competentele tale de date, dar mai putin pe analiza si ML."
   }
 ]
