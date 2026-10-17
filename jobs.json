@@ -1,123 +1,53 @@
 [
   {
-    "url": "https://careers.epam.com/en/vacancy/senior-data-engineer-palantir-foundry-bltu7xj1zh7wqvosr4h_en",
-    "title": "Senior Data Engineer - Palantir Foundry",
-    "company": "EPAM SYSTEMS INTERNATIONAL SRL",
+    "url": "https://jobs.ropardo.ro/job/junior-bi-developer-transforming-data-into-business-insights-open-for-students/",
+    "title": "Junior BI Developer: Transforming Data into Business Insights - open for students",
+    "company": "ROPARDO SRL",
     "location": [
-      "România"
+      "Sibiu"
     ],
     "salary": null,
-    "date": "2026-10-15T18:43:51.809Z",
+    "date": "2026-10-16T10:16:57.604Z",
     "status": "scraped",
     "tags": [
-      "analiză de date",
-      "inginerie ML"
-    ],
-    "matchPercentage": 95,
-    "reason": "Data engineering with Palantir Foundry/Databricks, PySpark, SQL - directly matches data science and ML workflow skills."
-  },
-  {
-    "url": "https://careers.epam.com/en/vacancy/senior-data-engineer-bltgoacwxid7ps7q44n_en",
-    "title": "Senior Data Engineer",
-    "company": "EPAM SYSTEMS INTERNATIONAL SRL",
-    "location": [
-      "București"
-    ],
-    "salary": null,
-    "date": "2026-10-15T18:43:51.809Z",
-    "status": "scraped",
-    "tags": [
-      "analiză de date",
-      "Python"
-    ],
-    "matchPercentage": 95,
-    "reason": "Senior Data Engineer with Snowflake, SQL, Python, Airflow - directly matches data science and analytics competencies."
-  },
-  {
-    "url": "https://careers.epam.com/en/vacancy/ai-solution-architect-blt7j1q4t3ao67vq7wv_en",
-    "title": "AI Solution Architect",
-    "company": "EPAM SYSTEMS INTERNATIONAL SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-15T18:43:51.809Z",
-    "status": "scraped",
-    "tags": [
-      "machine learning",
-      "proiectare AI"
+      "business intelligence",
+      "SQL"
     ],
     "matchPercentage": 90,
-    "reason": "AI Solution Architect role directly uses ML, RAG, agentic workflows and AI systems design."
+    "reason": "Junior BI Developer corespunde direct domeniului Business Intelligence și vizualizare a datelor, fiind deschis studenților."
   },
   {
-    "url": "https://careers.epam.com/en/vacancy/senior-ai-engineer-bltvc4qa0g7l17zoitx_en",
-    "title": "Senior AI Engineer",
-    "company": "EPAM SYSTEMS INTERNATIONAL SRL",
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Junior-Research-Consultant---Real-Estate---Industries_JR0913",
+    "title": "Junior Research Consultant - Real Estate &amp; Industries",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-10-15T18:43:51.809Z",
+    "date": "2026-10-16T10:48:11.921Z",
     "status": "scraped",
     "tags": [
-      "machine learning",
-      "proiectare AI"
+      "metodologia cercetării",
+      "analiză de date"
     ],
-    "matchPercentage": 90,
-    "reason": "Senior AI Engineer role directly involves agents, RAG, MLflow, Unity Catalog - strong match to ML/AI competencies."
+    "matchPercentage": 78,
+    "reason": "Junior Research Consultant în cercetare cantitativă de piață, cu implicare în concepție, analiză și livrare de proiecte - potrivește nivelul și metodologia de cercetare cantitativă."
   },
   {
-    "url": "https://careers.epam.com/en/vacancy/senior-python-engineer-bltgathedqzkujtjifd_en",
-    "title": "Senior Python Engineer",
-    "company": "EPAM SYSTEMS INTERNATIONAL SRL",
-    "location": [
-      "București"
-    ],
-    "salary": null,
-    "date": "2026-10-15T18:43:51.809Z",
-    "status": "scraped",
-    "tags": [
-      "analiză de date",
-      "Python"
-    ],
-    "matchPercentage": 90,
-    "reason": "Senior Python Data Engineer role using AWS, Snowflake, SQL - aligns with data analysis and ML workflow competencies."
-  },
-  {
-    "url": "https://careers.epam.com/en/vacancy/presales-solution-consultant-data-and-ai-blt792827nrlotetup2_en",
-    "title": "Presales Solution Consultant – Data and AI",
-    "company": "EPAM SYSTEMS INTERNATIONAL SRL",
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Executive_JR1045",
+    "title": "Research Executive",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-10-15T18:43:51.809Z",
+    "date": "2026-10-16T10:48:11.921Z",
     "status": "scraped",
     "tags": [
-      "analiză de date",
-      "machine learning"
+      "metodologia cercetării",
+      "analiză de date"
     ],
-    "matchPercentage": 85,
-    "reason": "Presales role combines data, AI/ML, and analytics consulting - aligns well with ML and data analysis competencies."
-  },
-  {
-    "url": "https://careers.rebeldot.com/jobs/8303757-ai-engineer",
-    "title": "AI Engineer",
-    "company": "REBELDOT SOLUTIONS S.R.L.",
-    "location": [
-      "Cluj-Napoca",
-      "Brasov",
-      "Oradea"
-    ],
-    "salary": null,
-    "date": "2026-10-15T18:47:11.345Z",
-    "status": "activ",
-    "tags": [
-      "machine learning",
-      "programare Python"
-    ],
-    "matchPercentage": 65,
-    "reason": "Domeniul (Python, ML, procesarea datelor) se potrivește direct cu competențele tale, dar cerințele de experiență practică cu LLM-uri și Docker sugerează un nivel mai degrabă mid decât entry-level."
+    "matchPercentage": 72,
+    "reason": "Research Executive entry-level în cercetare cantitativă, sprijin end-to-end (chestionare, analiză, raportare) - nivel și domeniu potrivite, deși baza e în Mexico City."
   }
 ]
