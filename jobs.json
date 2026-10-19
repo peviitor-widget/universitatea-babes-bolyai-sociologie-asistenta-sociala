@@ -1,37 +1,57 @@
 [
   {
-    "url": "https://jobs.ropardo.ro/job/junior-bi-developer-transforming-data-into-business-insights-open-for-students/",
-    "title": "Junior BI Developer: Transforming Data into Business Insights - open for students",
-    "company": "ROPARDO SRL",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153669499-scholarship-in-ai-for-master-students",
+    "title": "Scholarship in AI for Master Students",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Sibiu"
+      "Cluj-Napoca",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T10:16:57.604Z",
+    "date": "2026-10-18T10:44:51.761Z",
     "status": "scraped",
     "tags": [
-      "business intelligence",
-      "SQL"
+      "machine learning",
+      "AI"
     ],
-    "matchPercentage": 90,
-    "reason": "Junior BI Developer corespunde direct domeniului Business Intelligence și vizualizare a datelor, fiind deschis studenților."
+    "matchPercentage": 92,
+    "reason": "Bursă pentru studenți de master în domeniul AI, cu teză coordonată de mentori Bosch — potrivire excelentă de domeniu și nivel."
   },
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Junior-Research-Consultant---Real-Estate---Industries_JR0913",
-    "title": "Junior Research Consultant - Real Estate &amp; Industries",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269252/eMAG/Machine-Learning-Engineer-(Data&amp;AI,-Data-Science-Team)",
+    "title": "Machine Learning Engineer (Data&amp;AI, Data Science Team)",
+    "company": "EMAG RETAIL S.R.L.",
     "location": [
-      "România"
+      "Bucuresti",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T10:48:11.921Z",
+    "date": "2026-10-17T12:16:43.048Z",
     "status": "scraped",
     "tags": [
-      "metodologia cercetării",
-      "analiză de date"
+      "machine learning",
+      "data science"
     ],
     "matchPercentage": 78,
-    "reason": "Junior Research Consultant în cercetare cantitativă de piață, cu implicare în concepție, analiză și livrare de proiecte - potrivește nivelul și metodologia de cercetare cantitativă."
+    "reason": "Inginerie ML în echipa Data Science, potrivire directă cu algoritmii de ML și fluxurile de data science."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18659/machine-learning-ai-engineer",
+    "title": "Machine Learning  AI Engineer",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:07.185Z",
+    "status": "scraped",
+    "tags": [
+      "machine learning",
+      "AI"
+    ],
+    "matchPercentage": 74,
+    "reason": "Inginerie ML/AI direct în domeniul competențelor tale tehnice, la nivel compatibil cu începerea carierei."
   },
   {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Executive_JR1045",
@@ -41,13 +61,100 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-16T10:48:11.921Z",
+    "date": "2026-10-18T10:28:39.333Z",
     "status": "scraped",
     "tags": [
-      "metodologia cercetării",
+      "cercetare socială",
+      "analiza datelor"
+    ],
+    "matchPercentage": 72,
+    "reason": "Cercetare aplicată cu dezvoltarea chestionarelor, colectarea și analiza datelor pentru insight-uri, la nivel entry-level, potrivit pentru profilul de metodologie și analiză."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271651/PPC-ROMANIA/Middle-Machine-Learning-Engineer",
+    "title": "Middle Machine Learning Engineer",
+    "company": "PPC PRODUCTIE ROMANIA S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:12:24.028Z",
+    "status": "scraped",
+    "tags": [
+      "machine learning",
       "analiză de date"
     ],
     "matchPercentage": 72,
-    "reason": "Research Executive entry-level în cercetare cantitativă, sprijin end-to-end (chestionare, analiză, raportare) - nivel și domeniu potrivite, deși baza e în Mexico City."
+    "reason": "Domeniul ML se potrivește perfect, dar nivelul middle poate necesita ~2-3 ani experiență practică, dificil de atins ca student proaspăt absolvit."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Research-Executive--m-w-d--im-Team--Political-Research-_JR1052",
+    "title": "Research Executive (m/w/d) im Team „Political Research“",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-18T10:28:39.333Z",
+    "status": "scraped",
+    "tags": [
+      "cercetare socială",
+      "analiza datelor"
+    ],
+    "matchPercentage": 70,
+    "reason": "Proiecte de cercetare de opinie cu conceperea chestionarelor, analiză și interpretarea datelor, la nivel de executiv entry-level."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Belgrade-Serbia/Junior-Research-Consultant_JR1022",
+    "title": "Junior Research Consultant",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-18T10:28:39.333Z",
+    "status": "scraped",
+    "tags": [
+      "analiza datelor",
+      "cercetare socială"
+    ],
+    "matchPercentage": 68,
+    "reason": "Poziție junior de cercetare cu producerea de rapoarte, analiză a trendurilor și verificarea acurateței datelor, aliniată competențelor de analiză."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zagreb-Croatia/Research-Consultant_JR0739",
+    "title": "Junior Research Consultant",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-18T10:28:39.333Z",
+    "status": "scraped",
+    "tags": [
+      "analiza datelor",
+      "cercetare socială"
+    ],
+    "matchPercentage": 65,
+    "reason": "Rol junior de cercetare cu analiza seturilor de date complexe și traducerea rezultatelor în insights, deși cere experiență anterioară în analiză."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149562729-ai-and-cloud-development-engineer-remote",
+    "title": "AI and Cloud Development Engineer - Remote",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-18T10:44:51.761Z",
+    "status": "scraped",
+    "tags": [
+      "AI",
+      "machine learning"
+    ],
+    "matchPercentage": 65,
+    "reason": "Rol de dezvoltare AI în cloud, relevant ca domeniu, dar orientat mai mult pe infrastructură/agent orchest decât pe analiză de date sau ML clasic."
   }
 ]
