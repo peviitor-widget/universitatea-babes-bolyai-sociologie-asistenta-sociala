@@ -1,58 +1,5 @@
 [
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153669499-scholarship-in-ai-for-master-students",
-    "title": "Scholarship in AI for Master Students",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-20T11:15:25.335Z",
-    "status": "scraped",
-    "tags": [
-      "machine learning",
-      "disertație"
-    ],
-    "matchPercentage": 92,
-    "reason": "Bursa pentru studenti de master in AI la Bosch Cluj, cu disertație realizata cu mentori din companie, corespunde perfect profilului academic si tehnic."
-  },
-  {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Charg-e--d-tudes-marketing_JR0775",
-    "title": "Stage de fin d&#039;études – Chargé(e) d’études marketing",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-20T10:59:04.441Z",
-    "status": "scraped",
-    "tags": [
-      "metodologia cercetării sociale",
-      "analiza datelor empirice"
-    ],
-    "matchPercentage": 88,
-    "reason": "Stage de cercetare de marketing la YouGov: construirea instrumentelor de colectare a datelor primare, plan de analiza, prelucrarea datelor pentru insight-uri si redactarea rapoartelor, cu posibilitate de angajare la final de stagiu."
-  },
-  {
-    "url": "https://jobs.ropardo.ro/job/junior-bi-developer-transforming-data-into-business-insights-open-for-students/",
-    "title": "Junior BI Developer: Transforming Data into Business Insights - open for students",
-    "company": "ROPARDO SRL",
-    "location": [
-      "Sibiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-20T10:33:03.188Z",
-    "status": "scraped",
-    "tags": [
-      "Power BI",
-      "SQL"
-    ],
-    "matchPercentage": 87,
-    "reason": "Rol de Junior BI Developer deschis explicit studenților și tinerilor absolvenți, pe BI și data engineering cu SQL și Power BI: potrivire directă de domeniu și de nivel."
-  },
-  {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Junior-Research-Consultant---Real-Estate---Industries_JR0913",
     "title": "Junior Research Consultant - Real Estate &amp; Industries",
     "company": "YOUGOV CP ROMANIA S.R.L.",
@@ -60,31 +7,32 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-20T10:59:04.440Z",
+    "date": "2026-10-21T11:15:33.357Z",
     "status": "scraped",
     "tags": [
-      "metodologia cercetarii sociale",
-      "analiza datelor empirice"
+      "cercetare",
+      "cantitativă"
     ],
-    "matchPercentage": 85,
-    "reason": "Rol junior in cercetare de piata cu proiecte cantitative de la conceptie la livrare, folosind design de cercetare, analiza datelor si interpretarea insight-urilor, la nivelul competentelor mele de cercetare sociala si analiza statistica."
+    "matchPercentage": 95,
+    "reason": "Poziție Junior Research Consultant, cercetare cantitativă direct relevantă"
   },
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zagreb-Croatia/Research-Consultant_JR0739",
-    "title": "Junior Research Consultant",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/CLM-Developer--Power-Apps_R-2025035521",
+    "title": "Power Apps Developer",
+    "company": "MICHELIN ROMANIA S.A.",
     "location": [
-      "România"
+      "Voluntari",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-20T10:59:04.440Z",
+    "date": "2026-10-21T10:49:23.233Z",
     "status": "scraped",
     "tags": [
-      "analiza datelor empirice",
-      "vizualizarea datelor"
+      "Power BI",
+      "Power Platform"
     ],
-    "matchPercentage": 82,
-    "reason": "Rol junior in cercetare de consumatori cu analiza si prelucrare de date, interpretarea rezultatelor si redactarea rapoartelor, in acord cu competenta mea in analiza datelor empirice si prezentarea vizuala a rezultatelor."
+    "matchPercentage": 90,
+    "reason": "Domeniu BI și Power Platform direct relevant, nivel mid acceptabil"
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269252/eMAG/Machine-Learning-Engineer-(Data&amp;AI,-Data-Science-Team)",
@@ -99,28 +47,27 @@
     "status": "scraped",
     "tags": [
       "machine learning",
-      "inginerie ML"
+      "data science"
     ],
-    "matchPercentage": 78,
-    "reason": "Machine Learning Engineer intr-o echipa de Data Science, cu rol in construirea si evaluarea modelelor predictive pe date reale de business, nivel junior-mid."
+    "matchPercentage": 88,
+    "reason": "Machine Learning Engineer în echipa de Data Science, potrivire directă pe competențele tale tehnice."
   },
   {
-    "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/CLM-Developer--Power-Apps_R-2025035521",
-    "title": "Power Apps Developer",
-    "company": "MICHELIN ROMANIA S.A.",
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Research-Executive_JR1045",
+    "title": "Research Executive",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
     "location": [
-      "Voluntari",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-10-20T10:38:26.933Z",
+    "date": "2026-10-21T11:15:33.357Z",
     "status": "scraped",
     "tags": [
-      "Power BI",
-      "vizualizare date"
+      "cercetare",
+      "analiză"
     ],
-    "matchPercentage": 76,
-    "reason": "Dezvoltare Power Apps, Power Automate și rapoarte/dashboards în Power BI, la nivel mid-level, corespunde direct competențelor tale de automatizare în Power Platform, SQL și vizualizare, deși cerința de diplomă IT este un ușor dezavantaj."
+    "matchPercentage": 85,
+    "reason": "Cercetare cantitativă și analiză de date direct relevante, nivel entry acceptabil"
   },
   {
     "url": "https://www.targuldecariere.ro/companii/schaeffler/18659/machine-learning-ai-engineer",
@@ -135,28 +82,10 @@
     "status": "scraped",
     "tags": [
       "machine learning",
-      "analiză predictivă"
+      "AI"
     ],
-    "matchPercentage": 72,
-    "reason": "Rol de inginer ML/AI aplicat in industrie, cu sarcini direct pe modelare predictiva si algoritmi de machine learning, la nivel de absolvent/junior acceptabil."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000113124977-internship-program",
-    "title": "Internship Program",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-20T11:15:25.335Z",
-    "status": "scraped",
-    "tags": [
-      "internship",
-      "machine learning"
-    ],
-    "matchPercentage": 72,
-    "reason": "Program de internship de 6 luni orientat spre studenți, unde domeniul de activitate poate fi ales în funcție de specializare, compatibil cu data science/inginerie software la nivel entry."
+    "matchPercentage": 85,
+    "reason": "Inginer ML/AI cu sarcini directe de modelare și implementare, nivel compatibil cu junior/mid."
   },
   {
     "url": "https://www.principal33.com/job-offers/?personio_job_id=2510622",
@@ -168,49 +97,13 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-20T10:37:36.619Z",
+    "date": "2026-10-21T10:49:13.720Z",
     "status": "scraped",
     "tags": [
       "SQL",
-      "data science"
+      "Python"
     ],
-    "matchPercentage": 70,
-    "reason": "Data Engineer în Cluj-Napoca: domeniu relevant (fluxuri de lucru data science, SQL, Python), fără filtru de senioritate."
-  },
-  {
-    "url": "https://multijobs.ro/job/oportunitate-de-cariera-in-analiza-si-management-de-date/423",
-    "title": "Oportunitate de carieră în Analiză și Management de Date",
-    "company": "CHESCA SPEDITION SRL",
-    "location": [
-      "Galati",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:16:31.386Z",
-    "status": "scraped",
-    "tags": [
-      "analiza de date",
-      "SQL"
-    ],
-    "matchPercentage": 62,
-    "reason": "Titlul indica analiza si management de date intr-o companie de transport maritim, profil compatibil cu SQL, raportare si vizualizare, dar anuntul lipseste detalii despre nivel si responsabilitati exacte."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149562729-ai-and-cloud-development-engineer-remote",
-    "title": "AI and Cloud Development Engineer - Remote",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-20T11:15:25.335Z",
-    "status": "scraped",
-    "tags": [
-      "AI avansat",
-      "inginerie ML"
-    ],
-    "matchPercentage": 62,
-    "reason": "Rol de dezvoltare AI in cloud la nivel de inginer, cu potrivire partiala pe partea de AI si Python, desi predominant focusul este pe platforma cloud si integrare."
+    "matchPercentage": 65,
+    "reason": "Rol de Data Engineer in domeniul datelor, fara indicii de nivel senior, potrivit pentru entry/junior."
   }
 ]
