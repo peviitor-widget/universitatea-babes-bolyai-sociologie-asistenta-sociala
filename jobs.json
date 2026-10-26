@@ -8,85 +8,32 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-24T10:22:20.151Z",
+    "date": "2026-10-25T10:52:09.803Z",
     "status": "scraped",
     "tags": [
       "Python",
-      "BI"
-    ],
-    "matchPercentage": 90,
-    "reason": "BI, Python, SQL si AI se potrivesc direct competentelor tehnice."
-  },
-  {
-    "url": "https://jobs.ropardo.ro/job/junior-bi-developer-transforming-data-into-business-insights-open-for-students/",
-    "title": "Junior BI Developer: Transforming Data into Business Insights - open for students",
-    "company": "ROPARDO SRL",
-    "location": [
-      "Sibiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-24T09:56:26.107Z",
-    "status": "scraped",
-    "tags": [
-      "BI",
       "SQL"
     ],
     "matchPercentage": 90,
-    "reason": "BI Developer junior, deschis studentilor - potrivit domeniului si nivelului."
+    "reason": "Dezvoltare BI cu Python, SQL și automatizare a raportării, folosind direct competențele de analiză și vizualizare a datelor."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153669499-scholarship-in-ai-for-master-students",
-    "title": "Scholarship in AI for Master Students",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://apply.workable.com/j/06BAF3AE3A",
+    "title": "Data Scientist",
+    "company": "GARMIN CLUJ SRL",
     "location": [
       "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-24T10:40:08.109Z",
-    "status": "scraped",
-    "tags": [
-      "ai",
-      "machine-learning"
-    ],
-    "matchPercentage": 90,
-    "reason": "Bursa/trainee pentru studenti master, teza in AI."
-  },
-  {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zagreb-Croatia/Research-Consultant_JR0739",
-    "title": "Junior Research Consultant",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-24T10:22:20.151Z",
-    "status": "scraped",
-    "tags": [
-      "cercetare socială",
-      "analiză date"
-    ],
-    "matchPercentage": 85,
-    "reason": "Rol junior de cercetare și analiză de date, cu interpretare de rezultate și raportare, potrivit competențelor de cercetare socială și analiză empirică."
-  },
-  {
-    "url": "https://www.targuldecariere.ro/companii/schaeffler/18659/machine-learning-ai-engineer",
-    "title": "Machine Learning  AI Engineer",
-    "company": "SCHAEFFLER ROMANIA SRL",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:07.185Z",
+    "date": "2026-10-25T19:27:38.284Z",
     "status": "scraped",
     "tags": [
       "machine learning",
-      "AI"
+      "Python"
     ],
-    "matchPercentage": 80,
-    "reason": "Se potrivește direct domeniului machine learning și AI."
+    "matchPercentage": 88,
+    "reason": "Pozitie de Data Scientist care foloseste direct machine learning, Python si analiza predictiva la nivel potrivit."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269252/eMAG/Machine-Learning-Engineer-(Data&amp;AI,-Data-Science-Team)",
@@ -101,10 +48,10 @@
     "status": "scraped",
     "tags": [
       "machine learning",
-      "AI"
+      "analiză predictivă"
     ],
-    "matchPercentage": 80,
-    "reason": "Se potrivește direct domeniului machine learning și AI."
+    "matchPercentage": 88,
+    "reason": "Machine Learning Engineer în echipa de Data Science, potrivire directă pe ML și analiză predictivă."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271651/PPC-ROMANIA/Middle-Machine-Learning-Engineer",
@@ -118,29 +65,47 @@
     "date": "2026-10-17T12:12:24.028Z",
     "status": "scraped",
     "tags": [
-      "machine-learning",
-      "predictie"
+      "machine learning",
+      "modelare"
     ],
-    "matchPercentage": 80,
-    "reason": "Inginerie ML directa, nivel Middle acceptabil."
+    "matchPercentage": 88,
+    "reason": "Poziție mid-level Machine Learning Engineer, nivel și domeniu potrivite direct."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149562729-ai-and-cloud-development-engineer-remote",
-    "title": "AI and Cloud Development Engineer - Remote",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://jobs.ropardo.ro/job/junior-bi-developer-transforming-data-into-business-insights-open-for-students/",
+    "title": "Junior BI Developer: Transforming Data into Business Insights - open for students",
+    "company": "ROPARDO SRL",
     "location": [
-      "Timișoara",
+      "Sibiu",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-24T10:40:08.109Z",
+    "date": "2026-10-25T10:18:43.702Z",
     "status": "scraped",
     "tags": [
-      "ai",
-      "cloud"
+      "BI",
+      "SQL"
     ],
-    "matchPercentage": 78,
-    "reason": "Dezvoltare AI si Cloud, relevant pentru inginerie ML."
+    "matchPercentage": 85,
+    "reason": "Rol junior BI Developer deschis studenților, cu activități de BI și date potrivite competențelor de analiză și SQL."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18659/machine-learning-ai-engineer",
+    "title": "Machine Learning  AI Engineer",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:07.185Z",
+    "status": "scraped",
+    "tags": [
+      "machine learning",
+      "Python"
+    ],
+    "matchPercentage": 84,
+    "reason": "Inginer Machine Learning/AI cu sarcini de modelare și AI, aliniat direct competențelor tehnice."
   },
   {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Analytics-Engineer_JR1103",
@@ -150,86 +115,14 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-24T10:22:20.151Z",
+    "date": "2026-10-25T10:52:09.803Z",
     "status": "scraped",
     "tags": [
-      "SQL",
-      "Python"
+      "analiză de date",
+      "SQL"
     ],
     "matchPercentage": 78,
-    "reason": "Rol de Analytics Engineer care folosește direct SQL avansat, Python și modelare de date pentru analiză și BI."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155962579-full-stack-developer-with-ai",
-    "title": "Full-stack Developer with AI",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-24T10:40:08.109Z",
-    "status": "scraped",
-    "tags": [
-      "ai",
-      "machine-learning"
-    ],
-    "matchPercentage": 75,
-    "reason": "Lucreaza cu agenti AI si LLM-uri, domeniu partial relevant."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156733844-cloud-platform-engineer",
-    "title": "Cloud Platform Engineer",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-24T10:40:08.109Z",
-    "status": "scraped",
-    "tags": [
-      "pipeline",
-      "python"
-    ],
-    "matchPercentage": 74,
-    "reason": "Pipeline-uri de date in Azure cu Python, relevant partial."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150673359-ai-automation-technical-consultant",
-    "title": "AI &amp; Automation Technical Consultant",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-24T10:40:08.109Z",
-    "status": "scraped",
-    "tags": [
-      "ai",
-      "automatizare"
-    ],
-    "matchPercentage": 72,
-    "reason": "Consultanta tehnica AI/automatizare, relevant partial."
-  },
-  {
-    "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/CLM-Developer--Power-Apps_R-2025035521",
-    "title": "Power Apps Developer",
-    "company": "MICHELIN ROMANIA S.A.",
-    "location": [
-      "Voluntari",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-24T09:59:03.184Z",
-    "status": "scraped",
-    "tags": [
-      "Power Platform",
-      "BI"
-    ],
-    "matchPercentage": 65,
-    "reason": "Power Platform partial relevant, nivel mid potrivit dar mai putin orientat spre analiza statistica."
+    "reason": "Analytics Engineer cu modelare de date, SQL/Python și BI, direct relevant pentru analiza datelor."
   },
   {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Research-Executive--m-w-d--im-Team--Political-Research-_JR1052",
@@ -239,31 +132,14 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-24T10:22:20.151Z",
+    "date": "2026-10-25T10:52:09.803Z",
     "status": "scraped",
     "tags": [
-      "cercetare",
-      "cantitativ"
+      "cercetare socială",
+      "analiză date"
     ],
-    "matchPercentage": 65,
-    "reason": "Cercetare cantitativa relevanta partial, dar lipsesc componentele tehnice ML/BI/GIS."
-  },
-  {
-    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Observability-Platform-Engineer_R0121184-1",
-    "title": "Observability Platform Engineer",
-    "company": "LSEG BUSINESS SERVICES RM S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-24T10:41:19.893Z",
-    "status": "scraped",
-    "tags": [
-      "pipeline",
-      "date"
-    ],
-    "matchPercentage": 65,
-    "reason": "Pipelines de date/telemetrie, relevant partial pentru inginerie date."
+    "matchPercentage": 74,
+    "reason": "Research Executive în cercetare politică presupune proiectarea studiilor, analiza datelor și interpretarea rezultatelor, potrivit metodologiei cercetării sociale."
   },
   {
     "url": "https://www.principal33.com/job-offers/?personio_job_id=2510622",
@@ -275,13 +151,65 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-23T10:42:07.277Z",
+    "date": "2026-10-25T10:25:19.886Z",
+    "status": "scraped",
+    "tags": [
+      "Python",
+      "SQL"
+    ],
+    "matchPercentage": 72,
+    "reason": "Rol de Data Engineer cu Python și SQL, fără cerință de senioritate, potrivit pentru nivel junior/mid."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zagreb-Croatia/Research-Consultant_JR0739",
+    "title": "Junior Research Consultant",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-25T10:52:09.803Z",
+    "status": "scraped",
+    "tags": [
+      "analiză date",
+      "metodologie"
+    ],
+    "matchPercentage": 70,
+    "reason": "Rol junior de research consultant cu analiză de date, interpretare și raportare, aliniat competențelor de analiză și metodologie."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Charg-e--d-tudes-marketing_JR0775",
+    "title": "Stage de fin d&#039;études – Chargé(e) d’études marketing",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-25T10:52:09.803Z",
+    "status": "scraped",
+    "tags": [
+      "analiză date",
+      "cercetare"
+    ],
+    "matchPercentage": 66,
+    "reason": "Stagiu de studii de piață cu analiză de date, plan de analiză și interpretarea rezultatelor, potrivire parțială cu cercetarea și analiza empirică."
+  },
+  {
+    "url": "https://multijobs.ro/job/oportunitate-de-cariera-in-analiza-si-management-de-date/423",
+    "title": "Oportunitate de carieră în Analiză și Management de Date",
+    "company": "CHESCA SPEDITION SRL",
+    "location": [
+      "Galati",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:16:31.386Z",
     "status": "scraped",
     "tags": [
       "SQL",
-      "Python"
+      "Power BI"
     ],
     "matchPercentage": 65,
-    "reason": "Data Engineer folosește direct SQL, Python și fluxuri de date, fără indicii de nivel senior."
+    "reason": "Rol de analiză și management al datelor, potrivit parțial competențelor de analiză, dar fără detalii despre nivel și sarcini."
   }
 ]
