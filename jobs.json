@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Marketing-Tracker-Developer_JR1113",
-    "title": "BI Developer with Python",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "București",
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-25T10:52:09.803Z",
-    "status": "scraped",
-    "tags": [
-      "Python",
-      "SQL"
-    ],
-    "matchPercentage": 90,
-    "reason": "Dezvoltare BI cu Python, SQL și automatizare a raportării, folosind direct competențele de analiză și vizualizare a datelor."
-  },
-  {
-    "url": "https://apply.workable.com/j/06BAF3AE3A",
-    "title": "Data Scientist",
-    "company": "GARMIN CLUJ SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-25T19:27:38.284Z",
-    "status": "scraped",
-    "tags": [
-      "machine learning",
-      "Python"
-    ],
-    "matchPercentage": 88,
-    "reason": "Pozitie de Data Scientist care foloseste direct machine learning, Python si analiza predictiva la nivel potrivit."
-  },
-  {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269252/eMAG/Machine-Learning-Engineer-(Data&amp;AI,-Data-Science-Team)",
     "title": "Machine Learning Engineer (Data&amp;AI, Data Science Team)",
     "company": "EMAG RETAIL S.R.L.",
@@ -47,11 +11,11 @@
     "date": "2026-10-17T12:16:43.048Z",
     "status": "scraped",
     "tags": [
-      "machine learning",
-      "analiză predictivă"
+      "ML",
+      "analiză"
     ],
-    "matchPercentage": 88,
-    "reason": "Machine Learning Engineer în echipa de Data Science, potrivire directă pe ML și analiză predictivă."
+    "matchPercentage": 92,
+    "reason": "Machine Learning Engineer în echipă Data&AI, potrivit direct pentru ML, SQL și fluxuri data science."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271651/PPC-ROMANIA/Middle-Machine-Learning-Engineer",
@@ -66,28 +30,62 @@
     "status": "scraped",
     "tags": [
       "machine learning",
-      "modelare"
+      "inginerie ml"
     ],
-    "matchPercentage": 88,
-    "reason": "Poziție mid-level Machine Learning Engineer, nivel și domeniu potrivite direct."
+    "matchPercentage": 90,
+    "reason": "Rol de Machine Learning Engineer potrivit pentru nivel mid și domeniul ML."
   },
   {
-    "url": "https://jobs.ropardo.ro/job/junior-bi-developer-transforming-data-into-business-insights-open-for-students/",
-    "title": "Junior BI Developer: Transforming Data into Business Insights - open for students",
-    "company": "ROPARDO SRL",
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Analytics-Engineer_JR1103",
+    "title": "Analytics Engineer",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
     "location": [
-      "Sibiu",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-10-25T10:18:43.702Z",
+    "date": "2026-10-26T12:21:22.226Z",
     "status": "scraped",
     "tags": [
-      "BI",
+      "SQL",
+      "Python"
+    ],
+    "matchPercentage": 90,
+    "reason": "Modelare de date si analytics cu SQL/Python potrivite competentelor tehnice."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Charg-e--d-tudes-marketing_JR0775",
+    "title": "Stage de fin d&#039;études – Chargé(e) d’études marketing",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:21:22.226Z",
+    "status": "scraped",
+    "tags": [
+      "cercetare",
+      "analiză"
+    ],
+    "matchPercentage": 88,
+    "reason": "Stagiu de cercetare marketing cu analiză, chestionare și interpretare date, relevant pentru cercetare cantitativă."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Marketing-Tracker-Developer_JR1113",
+    "title": "BI Developer with Python",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "București",
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:21:22.226Z",
+    "status": "scraped",
+    "tags": [
+      "Python",
       "SQL"
     ],
     "matchPercentage": 85,
-    "reason": "Rol junior BI Developer deschis studenților, cu activități de BI și date potrivite competențelor de analiză și SQL."
+    "reason": "Potrivește direct pe BI, Python, SQL și automatizare."
   },
   {
     "url": "https://www.targuldecariere.ro/companii/schaeffler/18659/machine-learning-ai-engineer",
@@ -101,115 +99,115 @@
     "date": "2026-10-17T12:22:07.185Z",
     "status": "scraped",
     "tags": [
-      "machine learning",
-      "Python"
-    ],
-    "matchPercentage": 84,
-    "reason": "Inginer Machine Learning/AI cu sarcini de modelare și AI, aliniat direct competențelor tehnice."
-  },
-  {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Analytics-Engineer_JR1103",
-    "title": "Analytics Engineer",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-25T10:52:09.803Z",
-    "status": "scraped",
-    "tags": [
-      "analiză de date",
-      "SQL"
+      "ML",
+      "AI"
     ],
     "matchPercentage": 78,
-    "reason": "Analytics Engineer cu modelare de date, SQL/Python și BI, direct relevant pentru analiza datelor."
+    "reason": "Rol de Machine Learning/AI relevant pentru domeniu, nivel aparent entry/mid și nu este marcat senior."
   },
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Research-Executive--m-w-d--im-Team--Political-Research-_JR1052",
-    "title": "Research Executive (m/w/d) im Team „Political Research“",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149562729-ai-and-cloud-development-engineer-remote",
+    "title": "AI and Cloud Development Engineer - Remote",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-25T10:52:09.803Z",
-    "status": "scraped",
-    "tags": [
-      "cercetare socială",
-      "analiză date"
-    ],
-    "matchPercentage": 74,
-    "reason": "Research Executive în cercetare politică presupune proiectarea studiilor, analiza datelor și interpretarea rezultatelor, potrivit metodologiei cercetării sociale."
-  },
-  {
-    "url": "https://www.principal33.com/job-offers/?personio_job_id=2510622",
-    "title": "Data Engineer",
-    "company": "PRINCIPAL33 S.R.L.",
-    "location": [
-      "Cluj-Napoca",
-      "Târgu Mureș",
+      "Timișoara",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-25T10:25:19.886Z",
+    "date": "2026-10-26T12:37:42.622Z",
     "status": "scraped",
     "tags": [
-      "Python",
-      "SQL"
+      "ai",
+      "dezvoltare"
     ],
-    "matchPercentage": 72,
-    "reason": "Rol de Data Engineer cu Python și SQL, fără cerință de senioritate, potrivit pentru nivel junior/mid."
+    "matchPercentage": 75,
+    "reason": "AI/Cloud Development relevant pentru domeniul AI, nivel potrivit."
   },
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zagreb-Croatia/Research-Consultant_JR0739",
-    "title": "Junior Research Consultant",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/CLM-Developer--Power-Apps_R-2025035521",
+    "title": "Power Apps Developer",
+    "company": "MICHELIN ROMANIA S.A.",
     "location": [
-      "România"
+      "Voluntari",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-25T10:52:09.803Z",
+    "date": "2026-10-26T11:51:38.117Z",
     "status": "scraped",
     "tags": [
-      "analiză date",
-      "metodologie"
+      "Power Platform",
+      "BI"
     ],
     "matchPercentage": 70,
-    "reason": "Rol junior de research consultant cu analiză de date, interpretare și raportare, aliniat competențelor de analiză și metodologie."
+    "reason": "Se potrivește parțial pe Power Platform și BI, nivel mid acceptabil."
   },
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Charg-e--d-tudes-marketing_JR0775",
-    "title": "Stage de fin d&#039;études – Chargé(e) d’études marketing",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155962579-full-stack-developer-with-ai",
+    "title": "Full-stack Developer with AI",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:37:42.622Z",
+    "status": "scraped",
+    "tags": [
+      "ai",
+      "machine learning"
+    ],
+    "matchPercentage": 70,
+    "reason": "Dezvoltare AI/aplicații cu agenți, domeniu parțial relevant."
+  },
+  {
+    "url": "https://multijobs.ro/job/analist-raportare-financiara-ploiesti/5217",
+    "title": "Analist Raportare Financiară – Ploiești",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Ploiesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:41.422Z",
+    "status": "scraped",
+    "tags": [
+      "Power BI",
+      "SQL"
+    ],
+    "matchPercentage": 65,
+    "reason": "Raportarea financiară poate folosi BI și SQL, dar domeniul este predominant financiar."
+  },
+  {
+    "url": "https://jobs.borgdesign.ro/#pos_10",
+    "title": "SQL Developer",
+    "company": "BORG DESIGN SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:25:45.483Z",
+    "status": "scraped",
+    "tags": [
+      "SQL"
+    ],
+    "matchPercentage": 65,
+    "reason": "Utilizează SQL, însă sarcinile sunt preponderent dezvoltare web, nu analiză de date sau cercetare."
+  },
+  {
+    "url": "https://careers.epam.com/en/vacancy/junior-ai-net-engineer-blthnbnxg3xj291zjop_en",
+    "title": "Junior AI .NET Engineer",
+    "company": "EPAM SYSTEMS INTERNATIONAL SRL",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-10-25T10:52:09.803Z",
+    "date": "2026-10-26T12:06:05.913Z",
     "status": "scraped",
     "tags": [
-      "analiză date",
-      "cercetare"
+      "AI"
     ],
-    "matchPercentage": 66,
-    "reason": "Stagiu de studii de piață cu analiză de date, plan de analiză și interpretarea rezultatelor, potrivire parțială cu cercetarea și analiza empirică."
-  },
-  {
-    "url": "https://multijobs.ro/job/oportunitate-de-cariera-in-analiza-si-management-de-date/423",
-    "title": "Oportunitate de carieră în Analiză și Management de Date",
-    "company": "CHESCA SPEDITION SRL",
-    "location": [
-      "Galati",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:16:31.386Z",
-    "status": "scraped",
-    "tags": [
-      "SQL",
-      "Power BI"
-    ],
-    "matchPercentage": 65,
-    "reason": "Rol de analiză și management al datelor, potrivit parțial competențelor de analiză, dar fără detalii despre nivel și sarcini."
+    "matchPercentage": 62,
+    "reason": "Utilizează AI și .NET, însă focusul este pe backend, nu pe analize de date sau cercetare socială."
   }
 ]
