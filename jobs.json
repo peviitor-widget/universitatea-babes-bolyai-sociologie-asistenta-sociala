@@ -8,14 +8,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-29T11:53:59.761Z",
+    "date": "2026-10-30T11:48:05.695Z",
     "status": "scraped",
     "tags": [
       "BI",
       "SQL"
     ],
-    "matchPercentage": 93,
-    "reason": "Rolul junior de BI Developer, deschis studenților, folosește direct competențele de BI, SQL și analiză a datelor."
+    "matchPercentage": 92,
+    "reason": "Rol junior de BI Developer deschis studentilor, cu activitati directe de transformare a datelor in insight-uri."
   },
   {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bucharest-Romania/Marketing-Tracker-Developer_JR1113",
@@ -26,14 +26,32 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-29T12:22:10.206Z",
+    "date": "2026-10-30T12:13:27.277Z",
     "status": "scraped",
     "tags": [
-      "Python",
-      "BI"
+      "Power BI",
+      "Python"
     ],
-    "matchPercentage": 92,
-    "reason": "Dezvoltarea de soluții BI cu Python, SQL și dashboarduri folosește direct competențele de analiză și vizualizare a datelor."
+    "matchPercentage": 88,
+    "reason": "Rol de BI Developer cu Python, SQL și dashboarduri, direct relevant pentru competențele de BI, analiză și automatizare."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18659/machine-learning-ai-engineer",
+    "title": "Machine Learning  AI Engineer",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:07.185Z",
+    "status": "scraped",
+    "tags": [
+      "machine learning",
+      "Python"
+    ],
+    "matchPercentage": 85,
+    "reason": "Rol de machine learning engineer în domeniul AI, fără cerință de senioritate, potrivit competențelor tale."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269252/eMAG/Machine-Learning-Engineer-(Data&amp;AI,-Data-Science-Team)",
@@ -50,26 +68,8 @@
       "machine learning",
       "data science"
     ],
-    "matchPercentage": 90,
-    "reason": "Poziție de Machine Learning Engineer în echipa Data&AI/Data Science, potrivire directă."
-  },
-  {
-    "url": "https://www.targuldecariere.ro/companii/schaeffler/18659/machine-learning-ai-engineer",
-    "title": "Machine Learning  AI Engineer",
-    "company": "SCHAEFFLER ROMANIA SRL",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:07.185Z",
-    "status": "scraped",
-    "tags": [
-      "machine learning",
-      "AI"
-    ],
     "matchPercentage": 85,
-    "reason": "Rol de ML/AI Engineer fără cerință de senioritate, aliniat direct la competențele tehnice."
+    "reason": "Rol de machine learning engineer în echipa Data&AI, potrivit pentru profilul tău de data science."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153669499-scholarship-in-ai-for-master-students",
@@ -80,31 +80,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-29T12:41:42.608Z",
+    "date": "2026-10-30T12:33:14.291Z",
     "status": "scraped",
     "tags": [
-      "AI",
-      "cercetare"
+      "sisteme AI",
+      "machine learning"
     ],
     "matchPercentage": 85,
-    "reason": "Scholarship AI pentru masteranzi – cercetare aplicată în AI, domeniu și nivel potrivite."
-  },
-  {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Analytics-Engineer_JR1103",
-    "title": "Analytics Engineer",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:22:10.206Z",
-    "status": "scraped",
-    "tags": [
-      "SQL",
-      "Python"
-    ],
-    "matchPercentage": 80,
-    "reason": "Rol de analytics engineering cu SQL, Python si modelare de date pentru BI, potrivit nivelului mid si competentelor tehnice."
+    "reason": "Bursă pentru masteranzi în AI, la nivel de student, cu activitate de cercetare și teză în domeniul AI."
   },
   {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zagreb-Croatia/Research-Consultant_JR0739",
@@ -114,32 +97,31 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-29T12:22:10.206Z",
+    "date": "2026-10-30T12:13:27.277Z",
     "status": "scraped",
     "tags": [
       "analiză date",
       "cercetare socială"
     ],
     "matchPercentage": 75,
-    "reason": "Analiză de date și transformarea rezultatelor în insights, nivel junior potrivit, deși implică și vânzare de proiecte."
+    "reason": "Consultant junior care analizează seturi complexe de date și interpretează rezultate, folosind direct competențele de analiză."
   },
   {
-    "url": "https://ropardo.ro/careers/for-students/#applied-research",
-    "title": "Applied Research",
-    "company": "ROPARDO SRL",
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Analytics-Engineer_JR1103",
+    "title": "Analytics Engineer",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
     "location": [
-      "Sibiu",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-10-29T11:53:59.761Z",
+    "date": "2026-10-30T12:13:27.277Z",
     "status": "scraped",
     "tags": [
-      "cercetare",
-      "machine learning"
+      "SQL",
+      "fluxuri de date"
     ],
-    "matchPercentage": 72,
-    "reason": "Oportunitate de cercetare aplicată și învățare de tehnologii noi, deși descrierea este vagă."
+    "matchPercentage": 74,
+    "reason": "Rolul folosește SQL, Python și modelare de date, dar este orientat spre inginerie analitică și pare de nivel mid, nu entry-level."
   },
   {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Kln-Germany/Research-Executive--m-w-d--im-Team--Political-Research-_JR1052",
@@ -149,31 +131,13 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-29T12:22:10.206Z",
+    "date": "2026-10-30T12:13:27.277Z",
     "status": "scraped",
     "tags": [
       "cercetare socială",
       "metodologie"
     ],
-    "matchPercentage": 70,
-    "reason": "Cercetare cantitativă în științe sociale, dar rolul cere experiență și are componentă semnificativă de consultanță cu clienții."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155962579-full-stack-developer-with-ai",
-    "title": "Full-stack Developer with AI",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:41:42.608Z",
-    "status": "scraped",
-    "tags": [
-      "AI",
-      "Python"
-    ],
-    "matchPercentage": 65,
-    "reason": "Dezvoltare de aplicații AI cu LLM și agenți – potrivire parțială, nivel nesenior."
+    "matchPercentage": 72,
+    "reason": "Cercetare cantitativă și calitativă în domeniul politic/social, cu metodologie și analiză de date, la nivel adecvat de entry/junior."
   }
 ]
