@@ -8,139 +8,158 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T15:23:16.479Z",
+    "date": "2026-11-17T15:46:31.371Z",
     "status": "scraped",
     "tags": [
-      "Machine Learning",
-      "Modele AI"
+      "Deep learning",
+      "Data science"
+    ],
+    "matchPercentage": 95,
+    "reason": "Working student în Deep Learning și Data Science la Bosch Cluj, nivel de stagiu și sarcini direct în antrenarea rețelelor neuronale."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030",
+    "title": "Working student Deep Learning și Data Science",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:48:04Z",
+    "status": "tested",
+    "tags": [
+      "Deep learning",
+      "Data science"
+    ],
+    "matchPercentage": 95,
+    "reason": "Working student Deep Learning și Data Science la Den Bosch Cluj, potrivire directă între sarcini și competențele de AI și analiză de date."
+  },
+  {
+    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/junior-machine-learning-engineer",
+    "title": "Junior Machine Learning Engineer",
+    "company": "PPC ENERGIE S.A.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:37:51Z",
+    "status": "tested",
+    "tags": [
+      "Machine learning",
+      "Inginerie ML"
     ],
     "matchPercentage": 92,
-    "reason": "Working student în deep learning și data science la Bosch Cluj, cu antrenarea de rețele neuronale, exact pe competențele de ML și AI."
+    "reason": "Rol Junior Machine Learning Engineer care acceptă studenți sau absolvenți, cu sarcini directe de antrenare, evaluare și deployare a modelelor."
   },
   {
-    "url": "https://www.bookingholdings-coe.com/bookingholdings-coe/jobs/30536?lang=en-us",
-    "title": "Booking Holdings Romania - Data Analytics Engineer I",
-    "company": "BOOKING HOLDINGS ROMANIA S.R.L.",
+    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/junior-machine-learning-engineer-3",
+    "title": "Junior Machine Learning Engineer",
+    "company": "PPC ENERGIE S.A.",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T09:35:09Z",
+    "date": "2026-11-17T14:54:40Z",
     "status": "tested",
     "tags": [
-      "Analiză date",
-      "Python"
+      "Machine learning",
+      "Inginerie ML"
     ],
     "matchPercentage": 90,
-    "reason": "Poziție explicit entry-level cu sarcini de pipeline-uri, modele de date, Python și SQL sub îndrumare senior."
+    "reason": "Rol Junior Machine Learning Engineer cu sarcini directe de antrenare și deployare a modelelor pe infrastructură ML."
   },
   {
-    "url": "https://jobs-cee.pwc.com/ce/en/job/763314WD",
-    "title": "Solution Engineering și AI Prototyping Specialist",
-    "company": "HANDRA PWC S.R.L.",
+    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/middle-machine-learning-engineer-2",
+    "title": "Middle Machine Learning Engineer",
+    "company": "PPC ENERGIE S.A.",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T12:37:34Z",
+    "date": "2026-11-17T13:55:39Z",
     "status": "tested",
     "tags": [
-      "inginerie ML",
-      "modele AI"
+      "Machine learning",
+      "Inginerie ML"
     ],
-    "matchPercentage": 88,
-    "reason": "Prototiparea și validarea de soluții AI/ML, împreună cu ingineria fluxurilor de date, se potrivesc direct competențelor mele la nivel specialist/junior-mid."
+    "matchPercentage": 90,
+    "reason": "Rol Middle Machine Learning Engineer cu sarcini clare de modelare, pipeline-uri și modele production-ready, nivel mid acceptat."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000161477259-research-executive",
-    "title": "Research Executive",
-    "company": "NIELSEN INTERNATIONAL CORPORATION SRL",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153669499-scholarship-in-ai-for-master-students",
+    "title": "Scholarship in AI for Master Students",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "București",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T12:26:30Z",
-    "status": "tested",
+    "date": "2026-11-17T15:46:31.371Z",
+    "status": "scraped",
     "tags": [
-      "cercetare socială",
-      "metodologie"
+      "AI",
+      "machine learning"
     ],
-    "matchPercentage": 85,
-    "reason": "Research Executive la Nielsen implică proiectarea și desfășurarea de studii de cercetare cu metodologii cantitative și calitative, la nivel entry-level."
+    "matchPercentage": 90,
+    "reason": "Bursa pentru studenți master în AI, potrivită pentru nivel student/internship și domeniu AI."
   },
   {
-    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Bucharest---Dacia-One/Data-Analyst---Wholesale-Banking-Advanced-Analytics--ING-Hubs-Romania_REQ-10122629",
-    "title": "Data Analyst | Wholesale Banking Advanced Analytics @ING Hubs Romania",
-    "company": "ING HUBS B.V. AMSTERDAM - SUCURSALA BUCUREȘTI",
+    "url": "https://www.principal33.com/job-offers/?personio_job_id=2510622",
+    "title": "Data Engineer",
+    "company": "PRINCIPAL33 S.R.L.",
     "location": [
-      "Bucuresti",
+      "Cluj-Napoca",
+      "Târgu Mureș",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T10:22:33Z",
-    "status": "tested",
+    "date": "2026-11-17T15:09:10.308Z",
+    "status": "scraped",
     "tags": [
-      "Analiză date",
-      "Vizualizare"
+      "SQL avansat",
+      "fluxuri de date"
     ],
-    "matchPercentage": 85,
-    "reason": "Sarcini de analiză end-to-end, modelare analitică și vizualizare, fără cerințe de nivel senior."
+    "matchPercentage": 65,
+    "reason": "Data Engineer este parțial relevant pentru competențele tale de SQL avansat și fluxuri de date, fără indicii că ar fi un rol senior."
   },
   {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/analytics-engineer-data-management/102033",
-    "title": "Analytics Engineer, Data Management",
-    "company": "VEEAM SOFTWARE SRL",
+    "url": "https://www.jobrapid.ro/locuri-de-munca/analist-de-afaceri-in-domeniul-tic-in-alba-iulia-1732725.html",
+    "title": "Analist De Afaceri In Domeniul Tic",
+    "company": "RAPEL SRL",
     "location": [
-      "București",
+      "Domeniul Tic In Alba Iulia",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T09:05:56Z",
-    "status": "tested",
+    "date": "2026-11-17T15:28:56.952Z",
+    "status": "scraped",
     "tags": [
-      "SQL",
-      "Analiză date"
+      "sisteme AI",
+      "proiectare AI"
     ],
-    "matchPercentage": 80,
-    "reason": "Sarcini de analytics engineering cu SQL, Python și procese ETL/ELT, fără cerință de nivel senior."
+    "matchPercentage": 62,
+    "reason": "Parțial relevant: proiectează fluxuri și instrucțiuni pentru agenți AI, dar rolul rămâne de analist de afaceri."
   },
   {
-    "url": "https://www.cabuzau.ro/despre-noi/cariere/responsabil-gis-departamentul-tehnic/",
-    "title": "Responsabil GIS – Departament Tehnic",
-    "company": "COMPANIA DE APĂ BACĂU SA",
+    "url": "https://multijobs.ro/job/administrator-baze-de-date/5965",
+    "title": "ADMINISTRATOR BAZE DE DATE",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Buzau",
+      "Sibiu",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T12:27:04Z",
+    "date": "2026-11-17T15:25:19Z",
     "status": "tested",
     "tags": [
-      "GIS",
-      "analiză spațială"
+      "SQL avansat",
+      "baze de date"
     ],
-    "matchPercentage": 78,
-    "reason": "Poziția de responsabil GIS în departamentul tehnic folosește direct modelarea și analiza spațială, fără a cere nivel senior."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/bi-analyst/379/",
-    "title": "BI Analyst",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:18:42Z",
-    "status": "tested",
-    "tags": [
-      "Power BI",
-      "vizualizare"
-    ],
-    "matchPercentage": 75,
-    "reason": "Titlul de BI Analyst corespunde direct domeniului business intelligence, însă anunțul nu detaliază sarcinile sau nivelul de experiență."
+    "matchPercentage": 60,
+    "reason": "Administratorul de baze de date valorifică SQL avansat, deși lipsesc detalii despre nivel și sarcini."
   }
 ]
