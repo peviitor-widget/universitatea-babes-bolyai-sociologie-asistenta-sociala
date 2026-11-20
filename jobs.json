@@ -8,14 +8,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:46:31.371Z",
+    "date": "2026-11-19T15:32:08.047Z",
     "status": "scraped",
     "tags": [
-      "Deep learning",
-      "Data science"
+      "Machine Learning",
+      "Data Science"
     ],
-    "matchPercentage": 95,
-    "reason": "Working student în Deep Learning și Data Science la Bosch Cluj, nivel de stagiu și sarcini direct în antrenarea rețelelor neuronale."
+    "matchPercentage": 92,
+    "reason": "Working student în deep learning și data science la Bosch Cluj, domeniu și nivel perfect potrivite."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030",
@@ -29,29 +29,29 @@
     "date": "2026-11-17T12:48:04Z",
     "status": "tested",
     "tags": [
-      "Deep learning",
-      "Data science"
+      "Machine Learning",
+      "Data Science"
     ],
-    "matchPercentage": 95,
-    "reason": "Working student Deep Learning și Data Science la Den Bosch Cluj, potrivire directă între sarcini și competențele de AI și analiză de date."
+    "matchPercentage": 92,
+    "reason": "Working student în deep learning și data science la Cluj, potrivire directă cu profilul meu."
   },
   {
-    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/junior-machine-learning-engineer",
-    "title": "Junior Machine Learning Engineer",
-    "company": "PPC ENERGIE S.A.",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153669499-scholarship-in-ai-for-master-students",
+    "title": "Scholarship in AI for Master Students",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Bucuresti",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T13:37:51Z",
-    "status": "tested",
+    "date": "2026-11-19T15:32:08.047Z",
+    "status": "scraped",
     "tags": [
-      "Machine learning",
-      "Inginerie ML"
+      "Machine Learning",
+      "AI"
     ],
-    "matchPercentage": 92,
-    "reason": "Rol Junior Machine Learning Engineer care acceptă studenți sau absolvenți, cu sarcini directe de antrenare, evaluare și deployare a modelelor."
+    "matchPercentage": 90,
+    "reason": "Bursă pentru studenți masteranzi în AI, direct relevantă pentru competențele de machine learning și proiectare de soluții AI."
   },
   {
     "url": "https://ppc.jobful.io/company/ppc-energy/jobs/junior-machine-learning-engineer-3",
@@ -65,11 +65,47 @@
     "date": "2026-11-17T14:54:40Z",
     "status": "tested",
     "tags": [
-      "Machine learning",
+      "Machine Learning",
       "Inginerie ML"
     ],
-    "matchPercentage": 90,
-    "reason": "Rol Junior Machine Learning Engineer cu sarcini directe de antrenare și deployare a modelelor pe infrastructură ML."
+    "matchPercentage": 88,
+    "reason": "Junior Machine Learning Engineer cu sarcini directe de antrenare și deployare a modelelor, nivel admitibil."
+  },
+  {
+    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/junior-machine-learning-engineer",
+    "title": "Junior Machine Learning Engineer",
+    "company": "PPC ENERGIE S.A.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:37:51Z",
+    "status": "tested",
+    "tags": [
+      "Machine Learning",
+      "Python"
+    ],
+    "matchPercentage": 88,
+    "reason": "Junior Machine Learning Engineer cu ML, Python și infrastructură cloud, adaptat unui absolvent cu proiecte."
+  },
+  {
+    "url": "https://jobs.ropardo.ro/job/junior-bi-developer-transforming-data-into-business-insights-open-for-students/",
+    "title": "Junior BI Developer: Transforming Data into Business Insights - open for students",
+    "company": "ROPARDO SRL",
+    "location": [
+      "Sibiu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-19T14:50:16.598Z",
+    "status": "scraped",
+    "tags": [
+      "Power BI",
+      "SQL"
+    ],
+    "matchPercentage": 85,
+    "reason": "Titlul explicit de Junior BI Developer deschis studenților vizează analiză de date și BI, cu domeniu și nivel ambele potrivite."
   },
   {
     "url": "https://ppc.jobful.io/company/ppc-energy/jobs/middle-machine-learning-engineer-2",
@@ -83,48 +119,64 @@
     "date": "2026-11-17T13:55:39Z",
     "status": "tested",
     "tags": [
-      "Machine learning",
+      "Machine Learning",
       "Inginerie ML"
     ],
-    "matchPercentage": 90,
-    "reason": "Rol Middle Machine Learning Engineer cu sarcini clare de modelare, pipeline-uri și modele production-ready, nivel mid acceptat."
+    "matchPercentage": 85,
+    "reason": "Middle Machine Learning Engineer, nivel mid acceptabil și sarcini directe de pipeline-uri și modele."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153669499-scholarship-in-ai-for-master-students",
-    "title": "Scholarship in AI for Master Students",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162224329-scholarship-in-ai-for-phd-students",
+    "title": "Scholarship in AI for PhD Students",
     "company": "ROBERT BOSCH SRL",
     "location": [
       "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:46:31.371Z",
+    "date": "2026-11-19T15:32:08.047Z",
     "status": "scraped",
     "tags": [
-      "AI",
-      "machine learning"
+      "Machine Learning",
+      "AI"
     ],
-    "matchPercentage": 90,
-    "reason": "Bursa pentru studenți master în AI, potrivită pentru nivel student/internship și domeniu AI."
+    "matchPercentage": 85,
+    "reason": "Bursă de cercetare în AI pentru studenți doctoranzi, aliniată direct cu domeniul de machine learning și AI."
   },
   {
-    "url": "https://www.principal33.com/job-offers/?personio_job_id=2510622",
-    "title": "Data Engineer",
-    "company": "PRINCIPAL33 S.R.L.",
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/Research-Executive--Client-Service_JR1037",
+    "title": "Research Executive, Client Service",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
     "location": [
-      "Cluj-Napoca",
-      "Târgu Mureș",
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-19T15:18:51.402Z",
+    "status": "scraped",
+    "tags": [
+      "metodologie",
+      "cercetare"
+    ],
+    "matchPercentage": 82,
+    "reason": "Rol de intrare în cercetarea de piață cu proiectare de chestionare, analiză și raportare, folosind direct metodologia cercetării sociale."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/schaeffler/18659/machine-learning-ai-engineer",
+    "title": "Machine Learning AI Engineer",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:09:10.308Z",
-    "status": "scraped",
+    "date": "2026-11-17T14:40:24Z",
+    "status": "tested",
     "tags": [
-      "SQL avansat",
-      "fluxuri de date"
+      "Machine Learning",
+      "Modele AI"
     ],
-    "matchPercentage": 65,
-    "reason": "Data Engineer este parțial relevant pentru competențele tale de SQL avansat și fluxuri de date, fără indicii că ar fi un rol senior."
+    "matchPercentage": 75,
+    "reason": "Inginer ML/AI cu responsabilități directe de modelare, fără cerințe explicite de nivel senior."
   },
   {
     "url": "https://www.jobrapid.ro/locuri-de-munca/analist-de-afaceri-in-domeniul-tic-in-alba-iulia-1732725.html",
@@ -135,31 +187,13 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:28:56.952Z",
+    "date": "2026-11-19T15:13:35.122Z",
     "status": "scraped",
     "tags": [
-      "sisteme AI",
-      "proiectare AI"
+      "modele AI",
+      "engleză"
     ],
-    "matchPercentage": 62,
-    "reason": "Parțial relevant: proiectează fluxuri și instrucțiuni pentru agenți AI, dar rolul rămâne de analist de afaceri."
-  },
-  {
-    "url": "https://multijobs.ro/job/administrator-baze-de-date/5965",
-    "title": "ADMINISTRATOR BAZE DE DATE",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Sibiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:25:19Z",
-    "status": "tested",
-    "tags": [
-      "SQL avansat",
-      "baze de date"
-    ],
-    "matchPercentage": 60,
-    "reason": "Administratorul de baze de date valorifică SQL avansat, deși lipsesc detalii despre nivel și sarcini."
+    "matchPercentage": 65,
+    "reason": "Proiectarea dialogului și a instrucțiunilor pentru agenți AI folosește direct competențe de sisteme AI, iar nivelul de analist este potrivit."
   }
 ]
