@@ -1,95 +1,5 @@
 [
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
-    "title": "Working student Deep Learning &amp; Data Science",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-19T15:32:08.047Z",
-    "status": "scraped",
-    "tags": [
-      "Machine Learning",
-      "Data Science"
-    ],
-    "matchPercentage": 92,
-    "reason": "Working student în deep learning și data science la Bosch Cluj, domeniu și nivel perfect potrivite."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030",
-    "title": "Working student Deep Learning și Data Science",
-    "company": "DEN BOSCH GROUP SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T12:48:04Z",
-    "status": "tested",
-    "tags": [
-      "Machine Learning",
-      "Data Science"
-    ],
-    "matchPercentage": 92,
-    "reason": "Working student în deep learning și data science la Cluj, potrivire directă cu profilul meu."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153669499-scholarship-in-ai-for-master-students",
-    "title": "Scholarship in AI for Master Students",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-19T15:32:08.047Z",
-    "status": "scraped",
-    "tags": [
-      "Machine Learning",
-      "AI"
-    ],
-    "matchPercentage": 90,
-    "reason": "Bursă pentru studenți masteranzi în AI, direct relevantă pentru competențele de machine learning și proiectare de soluții AI."
-  },
-  {
-    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/junior-machine-learning-engineer-3",
-    "title": "Junior Machine Learning Engineer",
-    "company": "PPC ENERGIE S.A.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:54:40Z",
-    "status": "tested",
-    "tags": [
-      "Machine Learning",
-      "Inginerie ML"
-    ],
-    "matchPercentage": 88,
-    "reason": "Junior Machine Learning Engineer cu sarcini directe de antrenare și deployare a modelelor, nivel admitibil."
-  },
-  {
-    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/junior-machine-learning-engineer",
-    "title": "Junior Machine Learning Engineer",
-    "company": "PPC ENERGIE S.A.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T13:37:51Z",
-    "status": "tested",
-    "tags": [
-      "Machine Learning",
-      "Python"
-    ],
-    "matchPercentage": 88,
-    "reason": "Junior Machine Learning Engineer cu ML, Python și infrastructură cloud, adaptat unui absolvent cu proiecte."
-  },
-  {
     "url": "https://jobs.ropardo.ro/job/junior-bi-developer-transforming-data-into-business-insights-open-for-students/",
     "title": "Junior BI Developer: Transforming Data into Business Insights - open for students",
     "company": "ROPARDO SRL",
@@ -98,50 +8,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-19T14:50:16.598Z",
+    "date": "2026-11-20T14:31:30.406Z",
     "status": "scraped",
     "tags": [
       "Power BI",
       "SQL"
     ],
-    "matchPercentage": 85,
-    "reason": "Titlul explicit de Junior BI Developer deschis studenților vizează analiză de date și BI, cu domeniu și nivel ambele potrivite."
-  },
-  {
-    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/middle-machine-learning-engineer-2",
-    "title": "Middle Machine Learning Engineer",
-    "company": "PPC ENERGIE S.A.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T13:55:39Z",
-    "status": "tested",
-    "tags": [
-      "Machine Learning",
-      "Inginerie ML"
-    ],
-    "matchPercentage": 85,
-    "reason": "Middle Machine Learning Engineer, nivel mid acceptabil și sarcini directe de pipeline-uri și modele."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162224329-scholarship-in-ai-for-phd-students",
-    "title": "Scholarship in AI for PhD Students",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-19T15:32:08.047Z",
-    "status": "scraped",
-    "tags": [
-      "Machine Learning",
-      "AI"
-    ],
-    "matchPercentage": 85,
-    "reason": "Bursă de cercetare în AI pentru studenți doctoranzi, aliniată direct cu domeniul de machine learning și AI."
+    "matchPercentage": 88,
+    "reason": "Rol de Junior BI Developer explicit deschis studenților, cu sarcini de analiză și vizualizare a datelor la nivel entry-level."
   },
   {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/Research-Executive--Client-Service_JR1037",
@@ -151,49 +25,47 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-19T15:18:51.402Z",
+    "date": "2026-11-20T14:57:33.536Z",
     "status": "scraped",
     "tags": [
-      "metodologie",
-      "cercetare"
+      "cercetare socială",
+      "metodologie"
     ],
-    "matchPercentage": 82,
-    "reason": "Rol de intrare în cercetarea de piață cu proiectare de chestionare, analiză și raportare, folosind direct metodologia cercetării sociale."
+    "matchPercentage": 76,
+    "reason": "Research Executive entry-level în cercetare de piață, cu proiectarea chestionarelor și analiza datelor, potrivit competențelor de cercetare socială."
   },
   {
-    "url": "https://www.targuldecariere.ro/companii/schaeffler/18659/machine-learning-ai-engineer",
-    "title": "Machine Learning AI Engineer",
-    "company": "SCHAEFFLER ROMANIA SRL",
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Frankfurt-Germany/Werkstudent-in--m-w-d--in-Market-Research-im-Advanced-Solutions-Team_JR1157",
+    "title": "Werkstudent*in (m/w/d) in Market Research im Advanced Solutions Team",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
     "location": [
-      "Brașov",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-11-17T14:40:24Z",
-    "status": "tested",
-    "tags": [
-      "Machine Learning",
-      "Modele AI"
-    ],
-    "matchPercentage": 75,
-    "reason": "Inginer ML/AI cu responsabilități directe de modelare, fără cerințe explicite de nivel senior."
-  },
-  {
-    "url": "https://www.jobrapid.ro/locuri-de-munca/analist-de-afaceri-in-domeniul-tic-in-alba-iulia-1732725.html",
-    "title": "Analist De Afaceri In Domeniul Tic",
-    "company": "RAPEL SRL",
-    "location": [
-      "Domeniul Tic In Alba Iulia",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-19T15:13:35.122Z",
+    "date": "2026-11-20T14:57:33.536Z",
     "status": "scraped",
     "tags": [
-      "modele AI",
-      "engleză"
+      "cercetare socială",
+      "analiză date"
     ],
-    "matchPercentage": 65,
-    "reason": "Proiectarea dialogului și a instrucțiunilor pentru agenți AI folosește direct competențe de sisteme AI, iar nivelul de analist este potrivit."
+    "matchPercentage": 72,
+    "reason": "Rol de lucrător student în cercetare de piață cu analiză de date și metodologie de cercetare, potrivit ca nivel și domeniu."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Analytics-Engineer_JR1103",
+    "title": "Analytics Engineer",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-20T14:57:33.536Z",
+    "status": "scraped",
+    "tags": [
+      "Python",
+      "SQL"
+    ],
+    "matchPercentage": 72,
+    "reason": "Rol de analytics engineering cu modelare de date, Python și cerințe analitice, parțial aliniat profilului tău."
   }
 ]
