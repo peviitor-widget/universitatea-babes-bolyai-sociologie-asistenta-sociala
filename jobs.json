@@ -1,5 +1,95 @@
 [
   {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
+    "title": "Working student Deep Learning &amp; Data Science",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-25T17:00:02.313Z",
+    "status": "scraped",
+    "tags": [
+      "Machine Learning",
+      "Modele AI"
+    ],
+    "matchPercentage": 95,
+    "reason": "Rolul de working student în deep learning și data science din Cluj folosește direct competențele ML/AI la nivel de student."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030",
+    "title": "Working student Deep Learning și Data Science",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:48:04Z",
+    "status": "tested",
+    "tags": [
+      "Machine Learning",
+      "Modele AI"
+    ],
+    "matchPercentage": 95,
+    "reason": "Rolul de working student în deep learning și data science din Cluj folosește direct competențele ML/AI la nivel de student."
+  },
+  {
+    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/junior-machine-learning-engineer-3",
+    "title": "Junior Machine Learning Engineer",
+    "company": "PPC ENERGIE S.A.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:54:40Z",
+    "status": "tested",
+    "tags": [
+      "Machine Learning",
+      "Inginerie ML"
+    ],
+    "matchPercentage": 92,
+    "reason": "Rolul de Junior Machine Learning Engineer implică antrenarea și deployarea modelelor ML, potrivit pentru un începător."
+  },
+  {
+    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/junior-machine-learning-engineer",
+    "title": "Junior Machine Learning Engineer",
+    "company": "PPC ENERGIE S.A.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:37:51Z",
+    "status": "tested",
+    "tags": [
+      "Machine Learning",
+      "Inginerie ML"
+    ],
+    "matchPercentage": 92,
+    "reason": "Rolul de Junior Machine Learning Engineer acceptă candidați cu proiecte sau cursuri și implică direct ML și inginerie ML."
+  },
+  {
+    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/middle-machine-learning-engineer-2",
+    "title": "Middle Machine Learning Engineer",
+    "company": "PPC ENERGIE S.A.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:55:39Z",
+    "status": "tested",
+    "tags": [
+      "Machine Learning",
+      "Inginerie ML"
+    ],
+    "matchPercentage": 88,
+    "reason": "Rolul de Middle Machine Learning Engineer folosește ML și pipeline-uri end-to-end și se încadrează la nivel mid."
+  },
+  {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153669499-scholarship-in-ai-for-master-students",
     "title": "Scholarship in AI for Master Students",
     "company": "ROBERT BOSCH SRL",
@@ -8,102 +98,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-24T17:21:07.291Z",
+    "date": "2026-11-25T17:00:02.313Z",
     "status": "scraped",
     "tags": [
-      "AI",
-      "cercetare"
+      "modele AI",
+      "scriere academică"
     ],
     "matchPercentage": 85,
-    "reason": "Bursa pentru studenți masteranzi presupune elaborarea tezei cu mentori Bosch pe teme de AI, folosind direct competențele de modelare AI și cercetare la nivel de student."
-  },
-  {
-    "url": "https://jobs.ropardo.ro/job/junior-bi-developer-transforming-data-into-business-insights-open-for-students/",
-    "title": "Junior BI Developer: Transforming Data into Business Insights - open for students",
-    "company": "ROPARDO SRL",
-    "location": [
-      "Sibiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T16:38:55.627Z",
-    "status": "scraped",
-    "tags": [
-      "SQL",
-      "Power BI"
-    ],
-    "matchPercentage": 82,
-    "reason": "Postul de Junior BI Developer este deschis studenților și folosește direct analiza datelor și vizualizarea în Business Intelligence."
-  },
-  {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/Research-Executive--Client-Service_JR1037",
-    "title": "Research Executive, Client Service",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-24T17:01:04.376Z",
-    "status": "scraped",
-    "tags": [
-      "cercetare socială",
-      "metodologie"
-    ],
-    "matchPercentage": 80,
-    "reason": "Rolul de Research Executive, la început de carieră, folosește proiectarea chestionarelor, analiza rezultatelor și metodologia cercetării."
-  },
-  {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Frankfurt-Germany/Werkstudent-in--m-w-d--in-Market-Research-im-Advanced-Solutions-Team_JR1157",
-    "title": "Werkstudent*in (m/w/d) in Market Research im Advanced Solutions Team",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-24T17:01:04.376Z",
-    "status": "scraped",
-    "tags": [
-      "cercetare socială",
-      "analiză date"
-    ],
-    "matchPercentage": 76,
-    "reason": "Programul de Werkstudent este pentru studenți la sociologie, statistică sau psihologie și implică analiză de date și segmentare a consumatorilor."
-  },
-  {
-    "url": "https://www.jobrapid.ro/locuri-de-munca/analist-de-afaceri-in-domeniul-tic-in-alba-iulia-1732725.html",
-    "title": "Analist De Afaceri In Domeniul Tic",
-    "company": "RAPEL SRL",
-    "location": [
-      "Domeniul Tic In Alba Iulia",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T16:56:43.963Z",
-    "status": "scraped",
-    "tags": [
-      "AI",
-      "engleză"
-    ],
-    "matchPercentage": 68,
-    "reason": "Proiectarea de agenți AI, instrucțiuni pentru modele și testare de acceptanță, fără cerințe de senioritate."
-  },
-  {
-    "url": "https://ropardo.ro/careers/for-students/#applied-research",
-    "title": "Applied Research",
-    "company": "ROPARDO SRL",
-    "location": [
-      "Sibiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-24T16:38:55.627Z",
-    "status": "scraped",
-    "tags": [
-      "cercetare socială",
-      "metodologie"
-    ],
-    "matchPercentage": 65,
-    "reason": "Programul Applied Research de la Ropardo oferă experiență timpurie în cercetare aplicată și familiarizare cu noi tehnologii."
+    "reason": "Bursa pentru masteranzi implică elaborarea tezei pe teme de AI cu mentori Bosch, potrivind atât domeniul, cât și nivelul."
   },
   {
     "url": "https://dreamjobs.ro/ro/job/dma-topografie/asistent-tehnic-in-topografie",
@@ -121,6 +123,6 @@
       "analiză spațială"
     ],
     "matchPercentage": 65,
-    "reason": "Rol de asistent tehnic la nivel de început, cu date spațiale, scanare laser 3D și fotogrammetrie, parțial aliniat competențelor GIS."
+    "reason": "Rolul de asistent tehnic lucrează cu date spațiale din scanare laser 3D și fotogrammetrie, aproape de competențele GIS."
   }
 ]
