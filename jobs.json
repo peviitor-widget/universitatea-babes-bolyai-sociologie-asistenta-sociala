@@ -1,38 +1,93 @@
 [
   {
-    "url": "https://jobs.ropardo.ro/job/junior-bi-developer-transforming-data-into-business-insights-open-for-students/",
-    "title": "Junior BI Developer: Transforming Data into Business Insights - open for students",
-    "company": "ROPARDO SRL",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030-working-student-deep-learning-data-science",
+    "title": "Working student Deep Learning &amp; Data Science",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Sibiu",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-26T15:56:17.962Z",
+    "date": "2026-11-27T16:26:58.831Z",
     "status": "scraped",
     "tags": [
-      "Power BI",
-      "Vizualizare date"
+      "Deep Learning",
+      "Data Science"
     ],
-    "matchPercentage": 90,
-    "reason": "Rol Junior BI Developer deschis studenților, cu sarcini de analiză și vizualizare a datelor, exact pe competențele mele."
+    "matchPercentage": 92,
+    "reason": "Working student în deep learning și data science la Bosch Cluj, exact pe profilul meu de student."
   },
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Bangalore/Research-Executive--Client-Service_JR1037",
-    "title": "Research Executive, Client Service",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/junior-machine-learning-engineer",
+    "title": "Junior Machine Learning Engineer",
+    "company": "PPC ENERGIE S.A.",
     "location": [
-      "România"
+      "Bucuresti",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-11-26T16:28:19.853Z",
-    "status": "scraped",
+    "date": "2026-11-17T13:37:51Z",
+    "status": "tested",
     "tags": [
-      "Cercetare socială",
-      "Metodologie"
+      "Machine Learning",
+      "Inginerie ML"
     ],
-    "matchPercentage": 85,
-    "reason": "Rol de Research Executive entry-level cu chestionare, analiză cantitativă și raportare, direct pe competențele de metodologie a cercetării."
+    "matchPercentage": 92,
+    "reason": "Junior ML Engineer care acceptă diplomă în curs și experiență din proiecte sau cursuri, ideal pentru mine."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161437030",
+    "title": "Working student Deep Learning și Data Science",
+    "company": "DEN BOSCH GROUP SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:48:04Z",
+    "status": "tested",
+    "tags": [
+      "Deep Learning",
+      "Data Science"
+    ],
+    "matchPercentage": 92,
+    "reason": "Working student deep learning și data science la Bosch Cluj, compatibil cu studiile mele de ML/AI."
+  },
+  {
+    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/junior-machine-learning-engineer-3",
+    "title": "Junior Machine Learning Engineer",
+    "company": "PPC ENERGIE S.A.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:54:40Z",
+    "status": "tested",
+    "tags": [
+      "Machine Learning",
+      "Inginerie ML"
+    ],
+    "matchPercentage": 88,
+    "reason": "Junior ML Engineer cu antrenarea și deployarea modelelor pe AWS SageMaker, potrivit pentru un absolvent."
+  },
+  {
+    "url": "https://ppc.jobful.io/company/ppc-energy/jobs/middle-machine-learning-engineer-2",
+    "title": "Middle Machine Learning Engineer",
+    "company": "PPC ENERGIE S.A.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:55:39Z",
+    "status": "tested",
+    "tags": [
+      "Machine Learning",
+      "Inginerie ML"
+    ],
+    "matchPercentage": 82,
+    "reason": "Poziție middle de ML engineer cu pipeline-uri end-to-end și modele production-ready, în limitele a ~3 ani."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153669499-scholarship-in-ai-for-master-students",
@@ -43,30 +98,67 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-26T16:40:48.551Z",
+    "date": "2026-11-27T16:26:58.831Z",
     "status": "scraped",
     "tags": [
       "machine learning",
       "scriere academică"
     ],
     "matchPercentage": 80,
-    "reason": "Bursă pentru studenți masteranzi care elaborează teza în domeniul AI cu mentori Bosch, potrivită ca stagiu de cercetare pentru un student în anii mari."
+    "reason": "Bursă pentru studenți masteranzi care elaborează disertația în domeniul AI cu mentori Bosch, direct pe competențele de învățare automată și scriere academică."
   },
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Mexico-City-Mexico/Analytics-Engineer_JR1103",
-    "title": "Analytics Engineer",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149562729-ai-and-cloud-development-engineer-remote",
+    "title": "AI and Cloud Development Engineer - Remote",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "România"
+      "Timișoara",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-11-26T16:28:19.853Z",
+    "date": "2026-11-27T16:26:58.831Z",
     "status": "scraped",
     "tags": [
-      "Python",
-      "SQL"
+      "sisteme AI",
+      "inginerie ML"
     ],
-    "matchPercentage": 78,
-    "reason": "Lucrul cu Snowflake, dbt și Python pentru modele de date se potrivește direct cu analiza de date și SQL-ul avansat, la nivel mid."
+    "matchPercentage": 80,
+    "reason": "Dezvoltarea de sisteme AI în cloud folosește direct proiectarea modelelor AI și ingineria ML, iar titlul nu cere nivel senior."
+  },
+  {
+    "url": "https://dreamjobs.ro/ro/job/dma-topografie/asistent-tehnic-in-topografie",
+    "title": "Asistent Tehnic în Topografie",
+    "company": "DMA TOPOGRAFIE S.R.L.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:36:24Z",
+    "status": "tested",
+    "tags": [
+      "GIS",
+      "modelare spațială"
+    ],
+    "matchPercentage": 70,
+    "reason": "Rol de asistent tehnic în topografie cu scanare laser 3D și fotogrammetrie, la nivel de început de carieră, care valorifică direct competențele GIS."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161771380-working-student-s4-master-data-rollouts",
+    "title": "Working Student -  S/4 Master Data Rollouts",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-27T16:26:58.831Z",
+    "status": "scraped",
+    "tags": [
+      "SQL",
+      "integrare date"
+    ],
+    "matchPercentage": 60,
+    "reason": "Program Working Student cu sarcini de calitate, migrare și consultanță pe date de bază SAP, potrivit parțial competențelor de date la nivel entry-level."
   }
 ]
